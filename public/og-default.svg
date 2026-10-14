@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#0B1B2B"/>
+  <g stroke="#FFFFFF" stroke-opacity="0.10" stroke-width="1.4" fill="none">
+    <path d="M0 430 C 200 250, 1000 250, 1200 430"/>
+    <path d="M0 470 C 200 290, 1000 290, 1200 470"/>
+  </g>
+  <g stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" fill="none">
+    <path d="M92 200 C 104 168, 140 168, 152 200"/>
+    <line x1="92" y1="200" x2="152" y2="200"/>
+    <line x1="92" y1="200" x2="92" y2="214"/>
+    <line x1="152" y1="200" x2="152" y2="214"/>
+  </g>
+  <circle cx="122" cy="176" r="8" fill="#A8802C"/>
+  <text x="182" y="200" font-family="Georgia, serif" font-size="44" font-weight="600" fill="#FFFFFF">SetuVidya Consultancy</text>
+  <text x="92" y="320" font-family="Georgia, serif" font-size="62" font-weight="600" fill="#FFFFFF">Bridging Research, Knowledge</text>
+  <text x="92" y="392" font-family="Georgia, serif" font-size="62" font-weight="600" fill="#FFFFFF">&amp; Academic Success</text>
+  <line x1="92" y1="440" x2="180" y2="440" stroke="#A8802C" stroke-width="4"/>
+  <text x="92" y="500" font-family="system-ui, sans-serif" font-size="26" fill="#FFFFFF" fill-opacity="0.7">Thesis · Publication · Book Publication · University Admission</text>
+</svg>

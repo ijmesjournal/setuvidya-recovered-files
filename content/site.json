@@ -1,0 +1,2399 @@
+{
+  "brand": {
+    "name": "SetuVidya Consultancy",
+    "short": "SetuVidya",
+    "tagline": "Bridging Research, Knowledge & Academic Success",
+    "meaning": "Setu, a bridge. Vidya, knowledge. The name describes the work: carrying a scholar from an unformed research idea to a finished, defensible, publishable body of work.",
+    "url": "https://setuvidya.com",
+    "founded": "",
+    "legalName": "SetuVidya Consultancy",
+    "logo": "/setuvidya-logo-hq.png",
+    "logoAlt": "SetuVidya Consultancy"
+  },
+  "contact": {
+    "email": "setuvidya.edu@gmail.com",
+    "phone": "+91 74154 11642",
+    "whatsapp": "+91 74154 11642",
+    "addressLines": [
+      "District Centre, Janakpuri West",
+      "New Delhi 110058",
+      "India"
+    ],
+    "hours": {
+      "label": "Working hours",
+      "schedule": [
+        {
+          "days": "Monday – Saturday",
+          "time": "10:00 AM – 5:00 PM",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+          ],
+          "opens": "10:00",
+          "closes": "17:00",
+          "closed": false
+        },
+        {
+          "days": "Sunday",
+          "time": "Closed",
+          "dayOfWeek": [
+            "Sunday"
+          ],
+          "opens": "",
+          "closes": "",
+          "closed": true
+        }
+      ]
+    },
+    "socialLinks": {
+      "instagram": "https://www.instagram.com/setuvidyaconsultancy/",
+      "facebook": "https://www.facebook.com/people/SetuVidya-Consultancy/61594104910205/",
+      "linkedin": "",
+      "youtube": ""
+    }
+  },
+  "nav": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Research & Thesis",
+      "href": "/research-thesis"
+    },
+    {
+      "label": "Publication",
+      "href": "/publication",
+      "children": [
+        {
+          "label": "Research Paper Publication",
+          "href": "/publication",
+          "blurb": "Manuscript preparation, journal selection and submission support.",
+          "icon": "publication"
+        },
+        {
+          "label": "Scopus Journal List",
+          "href": "/scopus-journal-list",
+          "blurb": "Verified journal records, searchable by subject area.",
+          "icon": "publication"
+        },
+        {
+          "label": "SCI/SCIE Journal List",
+          "href": "/sci-journal-list",
+          "blurb": "Verified journal records, searchable by subject area.",
+          "icon": "publication"
+        },
+        {
+          "label": "Publication Process",
+          "href": "/research-guide",
+          "blurb": "The ten stages from research problem to reviewer response.",
+          "icon": "research"
+        },
+        {
+          "label": "Author Guidelines",
+          "href": "/research-guide/paper/author-guidelines",
+          "blurb": "Meeting a journal's formatting and submission requirements.",
+          "icon": "research"
+        }
+      ]
+    },
+    {
+      "label": "Services",
+      "href": "/services",
+      "children": [
+        {
+          "label": "Book Publication",
+          "href": "/book-publication",
+          "blurb": "ISBN, editing, design and professional book publishing support.",
+          "icon": "book"
+        },
+        {
+          "label": "University Admission",
+          "href": "/university-admission",
+          "blurb": "Programme selection, application and admission guidance.",
+          "icon": "admission"
+        }
+      ]
+    },
+    {
+      "label": "Journal",
+      "href": "",
+      "external": true
+    },
+    {
+      "label": "More",
+      "href": "",
+      "children": [
+        {
+          "label": "Academic Updates",
+          "href": "/education-updates",
+          "blurb": "Latest education news, research and academic opportunities.",
+          "icon": "publication"
+        },
+        {
+          "label": "About SetuVidya",
+          "href": "/about",
+          "blurb": "Who we are and how we work.",
+          "icon": "research"
+        },
+        {
+          "label": "Research Guide",
+          "href": "/research-guide",
+          "blurb": "Twenty stages across two pathways.",
+          "icon": "research"
+        },
+        {
+          "label": "Testimonials",
+          "href": "/testimonials",
+          "blurb": "What scholars have said about working with SetuVidya.",
+          "icon": "research"
+        },
+        {
+          "label": "FAQ",
+          "href": "/faq",
+          "blurb": "Common questions about scope and process.",
+          "icon": "admission"
+        }
+      ]
+    }
+  ],
+  "journey": [
+    {
+      "stage": "Research idea",
+      "note": "An unshaped question, a gap in the field, a supervisor's brief."
+    },
+    {
+      "stage": "Academic guidance",
+      "note": "Framing, feasibility and a route through the requirements."
+    },
+    {
+      "stage": "Thesis & research",
+      "note": "Proposal, review, methodology, analysis, chapters."
+    },
+    {
+      "stage": "Publication",
+      "note": "Manuscript preparation and journal submission support."
+    },
+    {
+      "stage": "Books & knowledge",
+      "note": "Monographs, textbooks and edited volumes."
+    },
+    {
+      "stage": "Academic opportunity",
+      "note": "Programme selection and application guidance."
+    },
+    {
+      "stage": "Academic success",
+      "note": "Work you can defend, cite and put your name to."
+    }
+  ],
+  "home": {
+    "hero": {
+      "headline": "Bridging Research, Knowledge & Academic Success",
+      "sub": "Guiding researchers, scholars and students with support in research, publication, academic opportunities and beyond.",
+      "primaryCta": {
+        "label": "Book a Consultation",
+        "href": "/contact#requirement-form"
+      },
+      "secondaryCta": {
+        "label": "Explore Our Services",
+        "href": "/services"
+      },
+      "image": {
+        "src": "/hero-desk.webp",
+        "alt": "A desk with a stack of academic books labelled Research, Publication, Academic Guidance and A Better Tomorrow, beside a SetuVidya mug, a pen and a plant.",
+        "credit": ""
+      },
+      "eyebrow": "Research | Publication | Academic Guidance",
+      "headlineLead": "Your Partner in",
+      "headlineAccent": "Research & Academic Growth",
+      "trustRow": [
+        {
+          "icon": "guidance",
+          "label": "Expert Guidance"
+        },
+        {
+          "icon": "resources",
+          "label": "Trusted Resources"
+        },
+        {
+          "icon": "opportunities",
+          "label": "Academic Opportunities"
+        },
+        {
+          "icon": "possibilities",
+          "label": "Real Possibilities"
+        }
+      ]
+    },
+    "trust": {
+      "title": "Research and academic support, end to end",
+      "intro": "Every engagement is scoped, documented and handled by people who work in academic research. What we offer is guidance and craft, not shortcuts.",
+      "pillars": [
+        {
+          "title": "PhD and M.Tech research support",
+          "body": "Proposal framing, methodology, literature review, analysis and thesis development for scholars at every stage."
+        },
+        {
+          "title": "SCI, Scopus and peer-reviewed publication assistance",
+          "body": "Journal identification, scope matching, manuscript preparation and reviewer-response guidance."
+        },
+        {
+          "title": "Academic editing and data analysis",
+          "body": "Language editing, structural review, formatting to journal or university templates, and statistical support."
+        },
+        {
+          "title": "Book publishing support",
+          "body": "Monographs, textbooks, reference works and edited volumes, from manuscript through to distribution guidance."
+        },
+        {
+          "title": "University admission assistance",
+          "body": "Programme shortlisting, eligibility review, documentation guidance and application support."
+        }
+      ]
+    },
+    "aboutPreview": {
+      "title": "A consultancy built around the research process, not around deadlines",
+      "body": [
+        "SetuVidya Consultancy works with scholars and students who are navigating complex academic requirements: a doctoral committee that wants the methodology tightened, a journal that has returned a manuscript for major revision, a monograph that has been sitting unfinished for two years, an admission cycle with rules that change by university.",
+        "We provide structure. A scoped plan, a named point of contact, written feedback you can act on, and revisions until the work is ready. What we do not provide is authorship. You remain the researcher, the author and the person who submits."
+      ],
+      "cta": {
+        "label": "About SetuVidya",
+        "href": "/about"
+      }
+    },
+    "why": {
+      "title": "Why scholars work with us",
+      "items": [
+        {
+          "title": "Research-focused expertise",
+          "body": "Support is delivered by people with research training, matched to your discipline rather than assigned at random."
+        },
+        {
+          "title": "Structured academic guidance",
+          "body": "Each engagement begins with an assessment and a written plan, so you know what happens next and when."
+        },
+        {
+          "title": "Professional documentation",
+          "body": "Chapters, manuscripts and applications formatted to the exact template your university or journal requires."
+        },
+        {
+          "title": "Publication-oriented support",
+          "body": "Work is prepared with the reviewer in mind: clear claims, defensible method, complete references."
+        },
+        {
+          "title": "Confidentiality by default",
+          "body": "Your data, drafts and identity stay private. Nothing is reused, resold or published as a sample."
+        },
+        {
+          "title": "Personalised assistance",
+          "body": "No templated packages. Scope is set against your actual gap, whether that is one chapter or a full timeline."
+        },
+        {
+          "title": "Multi-disciplinary support",
+          "body": "Engineering, management, sciences, social sciences and interdisciplinary research, subject to available expertise."
+        },
+        {
+          "title": "End-to-end academic guidance",
+          "body": "The same team can follow you from proposal to thesis to publication, so context is never lost."
+        }
+      ]
+    },
+    "steps": {
+      "title": "How an engagement works",
+      "intro": "Five stages, with a decision point before any work begins.",
+      "items": [
+        {
+          "n": "01",
+          "title": "Share your requirement",
+          "body": "Send your brief, draft, guidelines or supervisor feedback. Nothing is shared further."
+        },
+        {
+          "n": "02",
+          "title": "Research and academic assessment",
+          "body": "We review the material against your university or journal requirements and tell you honestly what is needed."
+        },
+        {
+          "n": "03",
+          "title": "Personalised support plan",
+          "body": "You receive a written scope: deliverables, sequence, review points and timeline. You approve before we start."
+        },
+        {
+          "n": "04",
+          "title": "Development and review",
+          "body": "Work proceeds in reviewable stages. You give feedback at each stage and we revise against it."
+        },
+        {
+          "n": "05",
+          "title": "Final academic support",
+          "body": "Final formatting, submission-readiness checks and guidance for the step that follows."
+        }
+      ]
+    },
+    "faqTitle": "Common questions",
+    "cta": {
+      "title": "Have a research or academic requirement?",
+      "body": "Let's discuss your requirement and identify the right academic support pathway.",
+      "primary": {
+        "label": "Book a consultation",
+        "href": "/contact#requirement-form"
+      },
+      "secondary": {
+        "label": "Send your requirement",
+        "href": "/contact#requirement-form"
+      }
+    },
+    "whyChoose": {
+      "kicker": "Why SetuVidya",
+      "title": "Why Scholars Choose SetuVidya",
+      "reasonsTitle": "Why Scholars Work With Us",
+      "reviewsTitle": "What Scholars Say",
+      "reasons": [
+        {
+          "title": "Research-Focused Guidance",
+          "body": "Support is delivered by people with research training, matched to your discipline rather than assigned at random."
+        },
+        {
+          "title": "Structured Academic Support",
+          "body": "Each engagement begins with an assessment and a written plan, so you know what happens next and when."
+        },
+        {
+          "title": "Methodology Guidance",
+          "body": "Guidance on research design, sampling and analysis, chosen to fit your question and your discipline rather than a fixed template."
+        },
+        {
+          "title": "Publication Process Guidance",
+          "body": "Work is prepared with the reviewer in mind: clear claims, defensible method, complete references."
+        },
+        {
+          "title": "Multi-Disciplinary Research Support",
+          "body": "Engineering, management, sciences, social sciences and interdisciplinary research, subject to available expertise."
+        },
+        {
+          "title": "Clear & Transparent Communication",
+          "body": "Scope, stages and what is expected from you are agreed in writing before work begins, so nothing about the engagement is implicit."
+        },
+        {
+          "title": "Confidentiality by Default",
+          "body": "Your data, drafts and identity stay private. Nothing is reused, resold or published as a sample."
+        }
+      ]
+    },
+    "resources": {
+      "kicker": "Academic resources",
+      "title": "Explore Our Academic Resources",
+      "cards": [
+        {
+          "title": "Scopus Journal List",
+          "subtitle": "",
+          "body": "Find and explore verified Scopus-indexed journals by subject area.",
+          "ctaLabel": "Explore Scopus Journals",
+          "href": "/scopus-journal-list",
+          "external": false
+        },
+        {
+          "title": "SCI Journal List",
+          "subtitle": "",
+          "body": "Explore journals covered by SCI/SCIE and verify coverage through the Web of Science Master Journal List.",
+          "ctaLabel": "Explore SCI Journals",
+          "href": "/sci-journal-list",
+          "external": false
+        },
+        {
+          "title": "ABDC Journal List",
+          "subtitle": "",
+          "body": "Explore journals listed in the ABDC journal ranking and verify the current official list.",
+          "ctaLabel": "Explore ABDC Journals",
+          "href": "/abdc-journal-list",
+          "external": false
+        },
+        {
+          "title": "Our Academic Journal",
+          "subtitle": "International Journal of Science & Management Studies (IJSMS)",
+          "body": "A dedicated academic journal platform for scholarly research, academic communication and dissemination of research work.",
+          "ctaLabel": "Visit Our Journal",
+          "href": "",
+          "external": true
+        }
+      ]
+    },
+    "previews": [
+      {
+        "kicker": "Publication",
+        "title": "Research publication support",
+        "body": "Manuscript preparation, journal selection and submission guidance. We improve how your work is presented and argued. Editorial decisions remain entirely with the journal.",
+        "ctaLabel": "Explore publication support",
+        "href": "/publication"
+      },
+      {
+        "kicker": "Our publication house",
+        "title": "SD Publication House",
+        "body": "The academic titles shown on this page are published by SD Publication House. SetuVidya provides the editorial, design and production support behind them.",
+        "ctaLabel": "Explore book publication",
+        "href": "/book-publication"
+      },
+      {
+        "kicker": "University admission",
+        "title": "University admission assistance",
+        "body": "Guidance through programme selection, eligibility and the application process. We help you apply well. Admission decisions are made by universities alone.",
+        "ctaLabel": "Explore admission guidance",
+        "href": "/university-admission"
+      }
+    ]
+  },
+  "disciplines": {
+    "title": "Research domains we support",
+    "intro": "Support is offered where we hold genuine subject expertise. If your area is not listed, ask, and we will tell you plainly whether we can help.",
+    "items": [
+      {
+        "name": "Engineering",
+        "note": "Mechanical, civil, electrical, electronics and allied streams"
+      },
+      {
+        "name": "Computer Science",
+        "note": "Algorithms, machine learning, systems, networks and security"
+      },
+      {
+        "name": "Management",
+        "note": "Strategy, marketing, operations, finance and organisational behaviour"
+      },
+      {
+        "name": "Commerce",
+        "note": "Accounting, banking, taxation and corporate finance"
+      },
+      {
+        "name": "Science",
+        "note": "Physics, chemistry, mathematics and applied sciences"
+      },
+      {
+        "name": "Social Sciences",
+        "note": "Sociology, economics, political science and public policy"
+      },
+      {
+        "name": "Humanities",
+        "note": "Literature, history, philosophy and cultural studies"
+      },
+      {
+        "name": "Biotechnology",
+        "note": "Molecular biology, bioinformatics and applied biotech"
+      },
+      {
+        "name": "Pharmacy",
+        "note": "Pharmaceutics, pharmacology and pharmaceutical analysis"
+      },
+      {
+        "name": "Education",
+        "note": "Pedagogy, curriculum studies and educational measurement"
+      },
+      {
+        "name": "Environmental Studies",
+        "note": "Sustainability, climate, ecology and impact assessment"
+      },
+      {
+        "name": "Interdisciplinary Research",
+        "note": "Studies that sit across two or more of the above"
+      }
+    ]
+  },
+  "serviceGroups": [
+    {
+      "id": "thesis",
+      "title": "Thesis & dissertation",
+      "href": "/research-thesis",
+      "blurb": "Structured support across the full doctoral and postgraduate research cycle.",
+      "items": [
+        "Research topic selection",
+        "PhD thesis consultancy",
+        "M.Tech thesis consultancy",
+        "Dissertation support",
+        "Synopsis development",
+        "Research proposal support",
+        "Research methodology",
+        "Literature review",
+        "Thesis structure and formatting",
+        "Data analysis",
+        "Statistical analysis",
+        "Plagiarism and similarity review",
+        "Academic editing",
+        "Viva & presentation preparation"
+      ]
+    },
+    {
+      "id": "publication",
+      "title": "Research paper publication",
+      "href": "/publication",
+      "blurb": "Manuscript craft and submission guidance for indexed and peer-reviewed journals.",
+      "items": [
+        "SCI publication support",
+        "Scopus publication support",
+        "Peer-reviewed journal publication",
+        "Manuscript preparation",
+        "Journal selection guidance",
+        "Manuscript formatting",
+        "Reviewer response assistance",
+        "Research paper editing",
+        "Citation and reference formatting"
+      ]
+    },
+    {
+      "id": "book",
+      "title": "Book publication",
+      "href": "/book-publication",
+      "blurb": "Academic books, monographs and edited volumes taken from manuscript to print.",
+      "items": [
+        "Academic books",
+        "Research monographs",
+        "Edited volumes",
+        "Textbooks",
+        "Reference books",
+        "Professional books",
+        "Manuscript development editing",
+        "Interior design and typesetting",
+        "ISBN and publishing guidance",
+        "Cover design",
+        "Distribution guidance"
+      ]
+    },
+    {
+      "id": "admission",
+      "title": "University admission",
+      "href": "/university-admission",
+      "blurb": "Guidance through programme selection, eligibility and the application process.",
+      "items": [
+        "University and programme selection",
+        "Eligibility guidance",
+        "Course selection",
+        "Application assistance",
+        "Document preparation guidance",
+        "Admission process guidance",
+        "Academic counselling",
+        "Application follow-up guidance"
+      ]
+    }
+  ],
+  "pages": {
+    "about": {
+      "title": "About SetuVidya",
+      "lede": "An academic research and education consultancy built to help scholars navigate complex requirements with structured, ethical and professional support.",
+      "sections": [
+        {
+          "heading": "What we do",
+          "body": [
+            "SetuVidya Consultancy supports PhD scholars, M.Tech and Master's students, research scholars, faculty members, academicians, authors and applicants to university programmes.",
+            "The work covers research guidance, thesis support, publication assistance, academic writing and editing, book publication and university admission guidance. Some scholars come to us at the proposal stage and stay through to their defence. Others arrive with a single problem: a reviewer's comment they cannot answer, a chapter that will not hold together, a similarity report that needs interpreting."
+          ]
+        },
+        {
+          "heading": "How we position ourselves",
+          "body": [
+            "We describe SetuVidya as a bridge, because that is genuinely the shape of the service. On one side sits research: questions, data, method, evidence. On the other sit the outcomes research is supposed to reach, namely knowledge that is properly recorded, publications that survive peer review, books that get read, and academic opportunities that open up as a result.",
+            "Most scholars do not fail on the research. They lose time on the crossing, on formatting rules, journal conventions, methodological justification, statistical choices, and the administrative machinery of universities. That crossing is what we are for."
+          ]
+        },
+        {
+          "heading": "How we work",
+          "body": [
+            "Every engagement starts with an honest assessment. If your manuscript is not ready for the journal you have in mind, we say so. If your methodology will not survive a viva, we say so before you invest another six months in it.",
+            "Scope is agreed in writing before work begins. You get a named point of contact, staged deliverables and written feedback you can act on. Revisions are part of the engagement, not an upsell."
+          ]
+        },
+        {
+          "heading": "Where we draw the line",
+          "body": [
+            "We do not sell authorship, guaranteed publication or guaranteed admission, and we do not accept work that asks us to fabricate data, manufacture citations or write something you intend to pass off as unaided.",
+            "This is not a disclaimer bolted onto the end of the service. It is the reason the service is worth buying: guidance that improves your capability is the only kind that survives a viva, a reviewer or a career."
+          ]
+        }
+      ],
+      "values": [
+        {
+          "title": "Evidence over assertion",
+          "body": "Advice is tied to your discipline's conventions and your institution's actual rules, not to generic best practice."
+        },
+        {
+          "title": "Capability over convenience",
+          "body": "The goal is that you can defend and extend the work without us."
+        },
+        {
+          "title": "Confidentiality without exception",
+          "body": "Drafts, data and identities are never reused, shown or published."
+        }
+      ]
+    },
+    "researchThesis": {
+      "title": "Research & thesis support",
+      "lede": "From an unformed question to a thesis you can defend. Support at any point on the path, or across the whole of it.",
+      "cta": {
+        "label": "Discuss your research",
+        "href": "/contact"
+      },
+      "pipelineTitle": "The academic research journey",
+      "pipelineIntro": "Most research problems are really sequencing problems. Here is the sequence, and where support usually matters most.",
+      "pipeline": [
+        {
+          "stage": "Idea",
+          "note": "Turning an interest into a researchable question with a defensible gap."
+        },
+        {
+          "stage": "Research proposal",
+          "note": "Objectives, scope, feasibility and committee expectations."
+        },
+        {
+          "stage": "Literature review",
+          "note": "Systematic search, thematic synthesis and a stated gap."
+        },
+        {
+          "stage": "Methodology",
+          "note": "Design, instruments, sampling, validity and ethics approval."
+        },
+        {
+          "stage": "Data collection",
+          "note": "Instrument design, pilot testing and data-quality checks."
+        },
+        {
+          "stage": "Analysis",
+          "note": "Statistical or qualitative analysis, interpretation and reporting."
+        },
+        {
+          "stage": "Thesis development",
+          "note": "Chapter architecture, argument, formatting and coherence."
+        },
+        {
+          "stage": "Defence preparation",
+          "note": "Anticipated questions, presentation and response strategy."
+        }
+      ],
+      "services": [
+        {
+          "id": "topic-selection",
+          "title": "Research topic selection",
+          "summary": "The decision that constrains every other decision. We help you find a question that is original, feasible within your timeline, and defensible to a committee.",
+          "includes": [
+            "Scanning recent literature in your area for genuinely open questions",
+            "Testing candidate topics against data availability and access",
+            "Feasibility against your timeline, funding and supervision",
+            "Alignment with your department's and supervisor's expectations",
+            "A shortlist with the trade-offs of each stated plainly"
+          ],
+          "who": "Scholars at registration stage, or anyone who has been asked to narrow or change their topic.",
+          "deliverables": [
+            "Topic shortlist with rationale",
+            "Preliminary gap note",
+            "Feasibility assessment"
+          ]
+        },
+        {
+          "id": "phd-thesis",
+          "title": "PhD thesis consultancy",
+          "summary": "End-to-end guidance for doctoral scholars, structured around your committee's expectations and your university's thesis regulations.",
+          "includes": [
+            "Chapter architecture and argument mapping across the full thesis",
+            "Methodological review against your research questions",
+            "Consistency of terminology, notation and citation across chapters",
+            "Formatting to your university's thesis template",
+            "Staged review with written feedback and revision rounds"
+          ],
+          "who": "PhD scholars at any stage, including those returning after a break or responding to committee revisions.",
+          "deliverables": [
+            "Chapter-level review notes",
+            "Restructured thesis outline",
+            "Formatted thesis document",
+            "Revision log"
+          ]
+        },
+        {
+          "id": "mtech-thesis",
+          "title": "M.Tech thesis consultancy",
+          "summary": "Focused support for postgraduate engineering research where timelines are tight and the scope has to be right the first time.",
+          "includes": [
+            "Scoping the problem to something achievable within your semester timeline",
+            "Implementation and experiment design guidance",
+            "Results presentation, tables and figures",
+            "Report structure to department format",
+            "Pre-submission review"
+          ],
+          "who": "M.Tech and M.E. students working on a dissertation or project thesis.",
+          "deliverables": [
+            "Scoped problem statement",
+            "Experiment and results plan",
+            "Formatted thesis report",
+            "Review notes"
+          ]
+        },
+        {
+          "id": "dissertation",
+          "title": "Dissertation support",
+          "summary": "Master's-level dissertation guidance across management, commerce, sciences, social sciences and humanities.",
+          "includes": [
+            "Topic feasibility assessment",
+            "Literature and framework development",
+            "Method selection appropriate to the question",
+            "Analysis and discussion structure",
+            "Language and formatting review"
+          ],
+          "who": "Master's students completing a dissertation requirement.",
+          "deliverables": [
+            "Feasibility note",
+            "Dissertation outline",
+            "Reviewed draft",
+            "Formatted submission copy"
+          ]
+        },
+        {
+          "id": "proposal",
+          "title": "Research proposal & synopsis",
+          "summary": "The document that decides whether your research is approved. We make sure it reads as considered, feasible and original.",
+          "includes": [
+            "Problem statement and objectives",
+            "Preliminary literature positioning and gap articulation",
+            "Proposed methodology and justification",
+            "Timeline, scope and expected contribution",
+            "Formatting to DRC, RAC or university synopsis format"
+          ],
+          "who": "Scholars preparing for registration, DRC presentation or synopsis submission.",
+          "deliverables": [
+            "Proposal or synopsis document",
+            "Objectives matrix",
+            "Reference list",
+            "Presentation outline"
+          ]
+        },
+        {
+          "id": "methodology",
+          "title": "Research methodology support",
+          "summary": "The section that most often decides a viva. We help you choose a design you can justify and describe it so a reviewer can replicate it.",
+          "includes": [
+            "Research design selection and rationale",
+            "Sampling strategy and sample size justification",
+            "Instrument development, validity and reliability",
+            "Ethical considerations and approval documentation",
+            "Limitations stated honestly"
+          ],
+          "who": "Scholars designing a study, or revising a methodology chapter after feedback.",
+          "deliverables": [
+            "Methodology chapter draft review",
+            "Design rationale note",
+            "Instrument review"
+          ]
+        },
+        {
+          "id": "literature-review",
+          "title": "Literature review support",
+          "summary": "A review is an argument, not a list. We help you build the argument that makes your gap unavoidable.",
+          "includes": [
+            "Systematic search strategy and database selection",
+            "Inclusion and exclusion criteria",
+            "Thematic synthesis and conceptual framework",
+            "Reference manager setup and citation hygiene",
+            "Gap statement that leads into your objectives"
+          ],
+          "who": "Scholars at the review stage, or those told their review is descriptive rather than critical.",
+          "deliverables": [
+            "Search protocol",
+            "Synthesis matrix",
+            "Reviewed literature chapter",
+            "Cleaned reference library"
+          ]
+        },
+        {
+          "id": "data-analysis",
+          "title": "Statistical & data analysis support",
+          "summary": "Analysis matched to your data and your hypotheses, reported the way your discipline expects.",
+          "includes": [
+            "Test selection against hypotheses and data type",
+            "Assumption checking and handling of violations",
+            "Execution in SPSS, R, Python, Stata or MATLAB",
+            "Tables and figures to journal or thesis standard",
+            "Plain-language interpretation you can defend"
+          ],
+          "who": "Scholars with collected data, or those planning analysis before collection.",
+          "deliverables": [
+            "Analysis plan",
+            "Output files and scripts",
+            "Formatted tables and figures",
+            "Interpretation notes"
+          ]
+        },
+        {
+          "id": "similarity",
+          "title": "Plagiarism & similarity review",
+          "summary": "Similarity reports are routinely misread. We help you interpret yours and address genuine issues through proper attribution and rewriting.",
+          "includes": [
+            "Report interpretation, source by source",
+            "Separating quotation, common phrasing and genuine overlap",
+            "Guidance on paraphrasing and correct attribution",
+            "Citation and reference correction",
+            "Re-check guidance before submission"
+          ],
+          "who": "Scholars facing a similarity threshold before submission.",
+          "deliverables": [
+            "Annotated report review",
+            "Correction guidance",
+            "Revised citation set"
+          ]
+        },
+        {
+          "id": "editing",
+          "title": "Academic editing & proofreading",
+          "summary": "Language, structure and consistency, edited to the standard your examiners and reviewers assume.",
+          "includes": [
+            "Grammar, syntax and academic register",
+            "Sentence-level clarity without changing your meaning",
+            "Terminology and notation consistency",
+            "Citation style compliance (APA, IEEE, Vancouver, Chicago, MLA and others)",
+            "Final proofread against the submission template"
+          ],
+          "who": "Any scholar preparing a chapter, thesis or manuscript for submission.",
+          "deliverables": [
+            "Tracked-changes document",
+            "Clean copy",
+            "Style sheet",
+            "Editorial notes"
+          ]
+        },
+        {
+          "id": "viva-preparation",
+          "title": "Viva and presentation preparation",
+          "summary": "The defence is an examination of whether you can justify your choices. We help you rehearse that justification before the room does it for you.",
+          "includes": [
+            "A mock viva working through your thesis chapter by chapter",
+            "Anticipated examiner questions, including the uncomfortable ones",
+            "Rehearsing defences of your methodology and its limitations",
+            "Presentation deck structure, pacing and figure legibility",
+            "Guidance on handling corrections and post-viva revisions"
+          ],
+          "who": "Scholars with a submitted or near-final thesis, and students preparing a synopsis or progress presentation.",
+          "deliverables": [
+            "Anticipated question set",
+            "Mock viva feedback notes",
+            "Reviewed presentation deck"
+          ]
+        }
+      ],
+      "domains": {
+        "kicker": "Multidisciplinary support",
+        "title": "Research Domains",
+        "subtitle": "Research support across disciplines, methodologies and academic domains.",
+        "expandLabel": "Explore domains",
+        "collapseLabel": "Show less",
+        "subjectsLabel": "Subject areas",
+        "note": "Across every domain, what we provide is academic guidance: research design, literature work, analysis of data you have collected, and thesis documentation. We do not operate laboratories, run fieldwork or experiments on your behalf, or guarantee research outcomes. Where a subject falls outside our expertise we will say so rather than take the work.",
+        "categories": [
+          {
+            "id": "management",
+            "icon": "management",
+            "title": "Management, Commerce & Economics",
+            "intro": "Empirical work built on surveys, secondary data and econometric models. We help with instrument design, sampling, analysis and the write-up.",
+            "subjects": [
+              "Management",
+              "Business Administration",
+              "Commerce",
+              "Economics",
+              "Finance",
+              "Marketing",
+              "Human Resource Management",
+              "Entrepreneurship",
+              "Banking & Financial Studies"
+            ],
+            "toolsLabel": "Analysis tools we work with",
+            "tools": [
+              "SPSS",
+              "SmartPLS / PLS-SEM",
+              "AMOS",
+              "EViews",
+              "Stata",
+              "R",
+              "Excel"
+            ]
+          },
+          {
+            "id": "humanities",
+            "icon": "humanities",
+            "title": "Humanities, Languages & Social Sciences",
+            "intro": "Argument-led and qualitative research. We help with framing, literature-based enquiry, coding and analysis of qualitative data, and academic register.",
+            "subjects": [
+              "Education",
+              "Hindi",
+              "Hindi Literature",
+              "English",
+              "English Literature",
+              "Philosophy",
+              "History",
+              "Political Science",
+              "Sociology",
+              "Psychology",
+              "Geography",
+              "Public Administration",
+              "Social Work",
+              "Library & Information Science"
+            ],
+            "toolsLabel": "Analysis tools we work with",
+            "tools": [
+              "NVivo",
+              "ATLAS.ti",
+              "SPSS",
+              "R",
+              "Reference managers"
+            ]
+          },
+          {
+            "id": "science",
+            "icon": "science",
+            "title": "Science & Mathematics",
+            "intro": "Methodology, literature-based research, computational and statistical analysis, and interpretation of results you have generated.",
+            "subjects": [
+              "Physics",
+              "Chemistry",
+              "Mathematics",
+              "Statistics",
+              "Environmental Science",
+              "Biotechnology",
+              "Microbiology",
+              "Botany",
+              "Zoology",
+              "Life Sciences"
+            ],
+            "toolsLabel": "Analysis tools we work with",
+            "tools": [
+              "R",
+              "Python",
+              "MATLAB",
+              "SPSS",
+              "Origin",
+              "LaTeX"
+            ],
+            "scopeNote": "Analysis and interpretation only. Experimental and laboratory work remains yours."
+          },
+          {
+            "id": "technical",
+            "icon": "technical",
+            "title": "Technical & Applied Sciences",
+            "intro": "Problem formulation, literature review, results presentation and thesis documentation for computational and engineering research.",
+            "subjects": [
+              "Computer Science",
+              "Information Technology",
+              "Data Science",
+              "Artificial Intelligence",
+              "Engineering",
+              "Electronics",
+              "Electrical Engineering",
+              "Mechanical Engineering",
+              "Civil Engineering",
+              "Biotechnology and allied sciences"
+            ],
+            "toolsLabel": "Analysis tools we work with",
+            "tools": [
+              "Python",
+              "MATLAB",
+              "R",
+              "LaTeX",
+              "Simulation and modelling toolkits"
+            ],
+            "scopeNote": "We advise on design, analysis and documentation. We do not operate laboratories or engineering facilities, and implementation remains your own work."
+          }
+        ],
+        "cta": {
+          "title": "Can't find your research domain?",
+          "body": "Tell us about your subject and research requirement.",
+          "label": "Discuss Your Research",
+          "href": "/contact"
+        }
+      },
+      "anatomy": {
+        "kicker": "Thesis anatomy",
+        "title": "Understanding Your Thesis",
+        "subtitle": "Understand the key stages of a structured research project—from research problem to final references.",
+        "chapters": [
+          {
+            "id": "thesis-introduction",
+            "title": "Introduction",
+            "body": [
+              "The introduction establishes what the study is about and why it is worth doing. It moves from the broad background and context of the field down to the specific problem your work addresses.",
+              "By the end of it a reader should know exactly what gap you identified, what you set out to do about it, and how far the study extends."
+            ],
+            "pointsLabel": "What it usually covers",
+            "points": [
+              "Background and context of the study",
+              "Statement of the research problem",
+              "Significance and justification of the study",
+              "The research gap the study addresses",
+              "Research objectives",
+              "Research questions, and hypotheses where the design calls for them",
+              "Scope and delimitations of the study"
+            ]
+          },
+          {
+            "id": "thesis-literature-review",
+            "title": "Literature Review",
+            "body": [
+              "The literature review systematically examines and synthesises previous research related to your topic. It is an argument, not a catalogue: the point is to show what is already established, where accounts disagree, and what remains unanswered.",
+              "Done well, it identifies the important theories and findings in the field and builds the foundation on which your own study stands, making the research gap unavoidable rather than asserted."
+            ],
+            "label": "LOR",
+            "pointsLabel": "What it usually covers",
+            "points": [
+              "A search strategy and the databases consulted",
+              "Inclusion and exclusion criteria for the studies reviewed",
+              "Key theories and theoretical frameworks in the field",
+              "Thematic synthesis of prior findings, including contradictions",
+              "The research gap, stated explicitly",
+              "A conceptual framework linking the review to your objectives"
+            ]
+          },
+          {
+            "id": "thesis-methodology",
+            "title": "Research Methodology",
+            "body": [
+              "The methodology explains how the study was carried out, in enough detail that another researcher could follow the same route. It is the section examiners scrutinise most closely, because every later claim depends on it.",
+              "What it contains varies by discipline. A survey-based management study, a laboratory-based science study and an archival humanities study will each justify very different choices."
+            ],
+            "pointsLabel": "What it usually covers",
+            "points": [
+              "Research design and the rationale for it",
+              "Research approach: quantitative, qualitative or mixed methods",
+              "Population, sample and sampling technique",
+              "Variables and their operational definitions, where applicable",
+              "Data sources, primary or secondary",
+              "Research instruments, and their validity and reliability",
+              "Data collection procedure and ethical considerations",
+              "Methods of analysis, matched to the data and the hypotheses"
+            ],
+            "toolsLabel": "Tools that may be appropriate, depending on the design",
+            "tools": [
+              "SPSS",
+              "SmartPLS / PLS-SEM",
+              "AMOS",
+              "EViews",
+              "R",
+              "Stata",
+              "Excel"
+            ]
+          },
+          {
+            "id": "thesis-results",
+            "title": "Results & Analysis",
+            "body": [
+              "This section presents and analyses what the data actually showed. Results are reported here; their meaning is argued in the discussion that follows.",
+              "The techniques below are illustrative. Which of them belong in your thesis follows entirely from your research design, your data and your discipline."
+            ],
+            "pointsLabel": "Examples of analysis, depending on the design",
+            "points": [
+              "Descriptive statistics",
+              "Reliability and validity analysis",
+              "Correlation analysis",
+              "Regression analysis",
+              "Hypothesis testing",
+              "Factor analysis",
+              "Structural equation modelling (SEM / PLS-SEM)",
+              "Tables and figures prepared to the required format",
+              "Qualitative coding and thematic analysis"
+            ],
+            "note": "Not every method applies to every subject. A qualitative study in literature or history may use none of the statistical techniques listed here."
+          },
+          {
+            "id": "thesis-discussion",
+            "title": "Discussion",
+            "body": [
+              "The discussion interprets the findings and connects them back to the research objectives, to the theories you drew on, and to the previous studies reviewed earlier.",
+              "Its job is explanation, not repetition. A discussion that restates the results table has not done the work; one that explains why a finding agrees with some prior studies and contradicts others has."
+            ],
+            "pointsLabel": "What it usually covers",
+            "points": [
+              "Interpretation of each major finding against the objectives",
+              "Agreement and disagreement with previous studies, and why",
+              "How the findings sit with the theoretical framework",
+              "Theoretical and practical implications",
+              "Unexpected results, addressed rather than omitted"
+            ]
+          },
+          {
+            "id": "thesis-conclusion",
+            "title": "Conclusion",
+            "body": [
+              "The conclusion draws the study together: what was found, what it contributes, and what it does not settle. It should be readable on its own by someone who has read only the introduction."
+            ],
+            "pointsLabel": "What it usually covers",
+            "points": [
+              "A summary of the major findings",
+              "The overall contribution of the study to the field",
+              "Theoretical, practical or policy implications",
+              "Limitations, stated honestly",
+              "Suggestions for future research"
+            ]
+          },
+          {
+            "id": "thesis-references",
+            "title": "References — APA 7th Edition",
+            "body": [
+              "References document every source cited in the study, and must be complete, consistent and correctly styled. Where your institution requires APA 7th Edition, the patterns below apply.",
+              "These are formatting templates, not real publications. Replace each placeholder with the details of the source you are actually citing."
+            ],
+            "pointsLabel": "Points examiners check",
+            "points": [
+              "Every in-text citation has a matching reference, and vice versa",
+              "Alphabetical ordering by author surname",
+              "Hanging indent and consistent punctuation",
+              "Journal titles and volumes in italics, as APA requires",
+              "DOIs given as full https://doi.org/ links",
+              "Confirm the edition your university requires before formatting"
+            ],
+            "examples": [
+              {
+                "label": "Journal article",
+                "text": "Author, A. A., & Author, B. B. (Year). Title of the article in sentence case. Journal Name, Volume(Issue), 00–00."
+              },
+              {
+                "label": "Book",
+                "text": "Author, A. A. (Year). Title of the book in sentence case (2nd ed.). Publisher."
+              },
+              {
+                "label": "Journal article with a DOI",
+                "text": "Author, A. A., Author, B. B., & Author, C. C. (Year). Title of the article in sentence case. Journal Name, Volume(Issue), 00–00. https://doi.org/xx.xxxx/xxxxxx"
+              }
+            ]
+          }
+        ],
+        "cta": {
+          "title": "Need guidance with your research?",
+          "body": "From research design to thesis preparation, explore structured academic support.",
+          "label": "Book a Consultation",
+          "href": "/contact"
+        }
+      }
+    },
+    "publication": {
+      "title": "Research publication support",
+      "lede": "Manuscript preparation, journal selection and submission guidance. We improve how your work is presented and argued. Editorial decisions remain entirely with the journal.",
+      "cta": {
+        "label": "Discuss your manuscript",
+        "href": "/contact"
+      },
+      "tracks": [
+        {
+          "id": "sci",
+          "title": "SCI journal publication",
+          "blurb": "Support for manuscripts targeting Science Citation Index and SCIE-indexed journals, where methodological rigour and novelty are scrutinised closely.",
+          "points": [
+            "Novelty positioning against recent literature in the target journal",
+            "Methodological completeness and reproducibility",
+            "Results presentation to the standard SCI reviewers expect",
+            "Cover letter and highlights preparation",
+            "Structured response to major and minor revisions"
+          ]
+        },
+        {
+          "id": "scopus",
+          "title": "Scopus journal publication",
+          "blurb": "Support for Scopus-indexed titles, with attention to scope matching and to verifying a journal's current indexing status before you commit.",
+          "points": [
+            "Scope matching against the journal's recent published issues",
+            "Verification of current indexing status",
+            "Manuscript formatting to the journal template",
+            "Reference formatting and completeness checks",
+            "Submission portal guidance"
+          ]
+        },
+        {
+          "id": "peer-reviewed",
+          "title": "Peer-reviewed journal publication",
+          "blurb": "Support for UGC-CARE listed, society and other peer-reviewed journals, including guidance on identifying credible venues and avoiding predatory ones.",
+          "points": [
+            "Credibility screening of candidate journals",
+            "Guidance on identifying predatory publishers",
+            "Manuscript structuring for the target readership",
+            "Ethics, authorship and conflict-of-interest declarations",
+            "Post-submission correspondence guidance"
+          ]
+        }
+      ],
+      "workflowTitle": "The publication workflow",
+      "workflow": [
+        {
+          "stage": "Research idea",
+          "note": "A finding worth reporting, framed as a contribution."
+        },
+        {
+          "stage": "Manuscript",
+          "note": "Drafted to the structure your target readership expects."
+        },
+        {
+          "stage": "Journal selection",
+          "note": "Scope, indexing, readership and realistic fit."
+        },
+        {
+          "stage": "Formatting",
+          "note": "Template, references, figures, ethics statements."
+        },
+        {
+          "stage": "Submission",
+          "note": "Portal, cover letter, suggested reviewers, declarations."
+        },
+        {
+          "stage": "Peer review",
+          "note": "The journal's process. Timelines and outcomes are theirs."
+        },
+        {
+          "stage": "Revision",
+          "note": "Point-by-point response and evidenced changes."
+        },
+        {
+          "stage": "Publication",
+          "note": "Proof checks, corrections and post-publication records."
+        }
+      ],
+      "servicesTitle": "What publication support covers",
+      "services": [
+        {
+          "title": "Journal identification",
+          "body": "A shortlist of candidate journals with scope notes, indexing status and realistic assessment of fit."
+        },
+        {
+          "title": "Scope matching",
+          "body": "Your manuscript read against what the journal has actually published in the last two years."
+        },
+        {
+          "title": "Manuscript preparation",
+          "body": "Abstract, introduction, method, results and discussion built to the conventions of the field."
+        },
+        {
+          "title": "Formatting",
+          "body": "Journal template, figure specifications, table styles, word limits and supplementary material."
+        },
+        {
+          "title": "Reference management",
+          "body": "Complete, consistent, correctly styled references with working DOIs."
+        },
+        {
+          "title": "Submission support",
+          "body": "Cover letter, declarations, portal walkthrough and metadata entry."
+        },
+        {
+          "title": "Reviewer response guidance",
+          "body": "A point-by-point response structure that addresses each comment with evidence and located changes."
+        },
+        {
+          "title": "Revision support",
+          "body": "Implementation of agreed revisions, with tracked changes and a change summary for the editor."
+        }
+      ],
+      "integrityNote": "We do not offer, arrange or broker publication. We do not use paid-acceptance channels, authorship sale or any service that bypasses peer review. Acceptance is decided by editors and reviewers alone."
+    },
+    "bookPublication": {
+      "title": "Turn your knowledge into a published book",
+      "lede": "Editorial, design and publishing support for academic books, monographs, textbooks, reference works and edited volumes.",
+      "cta": {
+        "label": "Discuss your book",
+        "href": "/contact"
+      },
+      "types": [
+        {
+          "title": "Academic books",
+          "body": "Single-author works aimed at scholars and postgraduate readers in a defined field."
+        },
+        {
+          "title": "Research monographs",
+          "body": "Focused treatments of a single research programme, often developed from doctoral work."
+        },
+        {
+          "title": "Edited volumes",
+          "body": "Multi-contributor collections, with editorial coordination, chapter review and consistency across contributions."
+        },
+        {
+          "title": "Textbooks",
+          "body": "Course-aligned books with pedagogy, worked examples, exercises and instructor material."
+        },
+        {
+          "title": "Reference books",
+          "body": "Handbooks, compendia and reference works requiring rigorous structure and indexing."
+        },
+        {
+          "title": "Professional books",
+          "body": "Practice-oriented titles for working professionals in technical and applied fields."
+        }
+      ],
+      "pipelineTitle": "From manuscript to distribution",
+      "pipeline": [
+        {
+          "stage": "Manuscript",
+          "note": "Structural assessment, chapter plan and gap analysis against comparable titles."
+        },
+        {
+          "stage": "Editing",
+          "note": "Developmental, copy and line editing, with consistency across chapters."
+        },
+        {
+          "stage": "Formatting",
+          "note": "Interior typesetting, figures, tables, front and back matter, index."
+        },
+        {
+          "stage": "ISBN & publishing guidance",
+          "note": "Publisher options, ISBN registration, rights, contracts and imprint choices explained."
+        },
+        {
+          "stage": "Cover design",
+          "note": "Original cover design suited to an academic readership and to thumbnail legibility."
+        },
+        {
+          "stage": "Publishing",
+          "note": "Production files, proofing and coordination with your chosen publisher or platform."
+        },
+        {
+          "stage": "Distribution guidance",
+          "note": "Print, ebook and library channel options, metadata and discoverability."
+        }
+      ],
+      "note": "Choice of publisher remains yours. We explain the trade-offs between traditional academic presses, university presses, hybrid arrangements and self-publishing, including what each typically expects and costs, so the decision is informed.",
+      "sdPublicationHouse": {
+        "kicker": "Our publication house",
+        "title": "SD Publication House",
+        "lede": "The academic titles shown on this page are published by SD Publication House. SetuVidya provides the editorial, design and production support behind them.",
+        "body": [
+          "Editorial and production work on a book is a different craft from research advice, and it runs on a different timetable. SD Publication House exists so that an author who has finished a manuscript does not have to assemble a freelance team to turn it into a book.",
+          "The work covers developmental and copy editing, interior typesetting, front and back matter, indexing and cover design, and coordination of production files through to the printer or platform you choose."
+        ],
+        "capabilities": [
+          {
+            "title": "Editorial",
+            "body": "Developmental editing, copy editing and proofreading, with consistency enforced across chapters and contributors."
+          },
+          {
+            "title": "Design and typesetting",
+            "body": "Interior layout to an academic standard, figures and tables, front and back matter, and original cover design."
+          },
+          {
+            "title": "Production coordination",
+            "body": "Print-ready file preparation, proofing rounds and coordination with your chosen publisher or platform."
+          },
+          {
+            "title": "Publishing guidance",
+            "body": "An explanation of your options and their trade-offs, so the route you pick is one you understand."
+          }
+        ],
+        "placeholderNote": "[ADD SD PUBLICATION HOUSE DETAILS ONCE CONFIRMED: registered entity or imprint status, ISBN arrangements, printing partners and distribution channels. Nothing has been assumed here.]",
+        "cta": {
+          "label": "Explore our books",
+          "href": "#published-books"
+        },
+        "logo": "/sd-publication-house-logo.jpg",
+        "logoAlt": "SD Publication House logo",
+        "identity": "Academic and educational publishing. The five titles below carry this imprint."
+      },
+      "portfolio": {
+        "kicker": "Published work",
+        "title": "Selected published books",
+        "intro": "Titles produced through SD Publication House. Each entry shows the actual front cover and the author page from the printed book.",
+        "viewLabel": "View book",
+        "displayMrp": true,
+        "emptySlotNote": "Slots 6 to 10 are reserved in content/site.json and render nothing until a title and front image are filled in.",
+        "books": [
+          {
+            "id": "organic-chemistry",
+            "title": "Organic Chemistry",
+            "subtitle": "Semester-IV, as per NEP",
+            "author": "Mr. Mrityunjay Mandal",
+            "coAuthor": "",
+            "year": "2025",
+            "publisher": "SD Publication House",
+            "isbn": "978-819933139-6",
+            "mrp": 450,
+            "frontImage": "/books/organic-chemistry-front.jpg",
+            "backImage": "/books/organic-chemistry-back.jpg",
+            "frontAlt": "Front cover of Organic Chemistry, Semester-IV as per NEP, by Mr. Mrityunjay Mandal, published by SD Publication House.",
+            "backAlt": "Back cover of Organic Chemistry, showing the About the Author section for Mr. Mrityunjay Mandal and the ISBN barcode.",
+            "price": null,
+            "currency": "INR",
+            "available": true,
+            "description": "",
+            "discountPercent": 30
+          },
+          {
+            "id": "physical-chemistry",
+            "title": "Physical Chemistry",
+            "subtitle": "States of Matter and Ionic Equilibrium",
+            "author": "Mr. Mrityunjay Mandal",
+            "coAuthor": "",
+            "year": "2025",
+            "publisher": "SD Publication House",
+            "isbn": "978-93-49653-47-4",
+            "mrp": 450,
+            "frontImage": "/books/physical-chemistry-front.jpg",
+            "backImage": "/books/physical-chemistry-back.jpg",
+            "frontAlt": "Front cover of Physical Chemistry: States of Matter and Ionic Equilibrium by Mr. Mrityunjay Mandal, published by SD Publication House.",
+            "backAlt": "Back cover of Physical Chemistry, showing the About the Author section for Mr. Mrityunjay Mandal and the ISBN barcode.",
+            "price": null,
+            "currency": "INR",
+            "available": true,
+            "description": "",
+            "discountPercent": 30
+          },
+          {
+            "id": "digital-yug-bal-man",
+            "title": "डिजिटल युग में बाल मनः स्क्रीन टाइम का विकास और व्यवहार पर प्रभाव",
+            "subtitle": "",
+            "author": "Dr. Shikha Jain",
+            "coAuthor": "Abhilash Kumar Jain",
+            "year": "",
+            "publisher": "SD Publication House",
+            "isbn": "978-819933134-1",
+            "mrp": 350,
+            "frontImage": "/books/digital-yug-bal-man-front.jpg",
+            "backImage": "/books/digital-yug-bal-man-back.jpg",
+            "frontAlt": "Front cover of the Hindi book on children's minds in the digital age by Dr. Shikha Jain and Abhilash Kumar Jain, published by SD Publication House.",
+            "backAlt": "Back cover showing author profiles for Dr. Shikha Jain and Abhilash Kumar Jain, with the ISBN barcode.",
+            "price": null,
+            "currency": "INR",
+            "available": true,
+            "description": "",
+            "discountPercent": 10
+          },
+          {
+            "id": "bhavnatmak-buddhimatta",
+            "title": "भावनात्मक बुद्धिमत्ता आधारित शिक्षा: कक्षा में बेहतर संबंध और अधिगम",
+            "subtitle": "",
+            "author": "Dr. Shikha Jain",
+            "coAuthor": "Abhilash Kumar Jain",
+            "year": "",
+            "publisher": "SD Publication House",
+            "isbn": "978-819933130-3",
+            "mrp": 350,
+            "frontImage": "/books/bhavnatmak-buddhimatta-front.jpg",
+            "backImage": "/books/bhavnatmak-buddhimatta-back.jpg",
+            "frontAlt": "Front cover of the Hindi book on emotional-intelligence-based education by Dr. Shikha Jain and Abhilash Kumar Jain, published by SD Publication House.",
+            "backAlt": "Back cover showing author profiles for Dr. Shikha Jain and Abhilash Kumar Jain, with the ISBN barcode.",
+            "price": null,
+            "currency": "INR",
+            "available": true,
+            "description": "",
+            "discountPercent": 10
+          },
+          {
+            "id": "pariksha-tanav",
+            "title": "परीक्षा तनाव और सफल प्रबंधन: विद्यार्थियों के लिए मनोवैज्ञानिक दृष्टिकोण",
+            "subtitle": "",
+            "author": "Dr. Shikha Jain",
+            "coAuthor": "Abhilash Kumar Jain",
+            "year": "",
+            "publisher": "SD Publication House",
+            "isbn": "978-819933137-2",
+            "mrp": 350,
+            "frontImage": "/books/pariksha-tanav-front.jpg",
+            "backImage": "/books/pariksha-tanav-back.jpg",
+            "frontAlt": "Front cover of the Hindi book on exam stress and successful management by Dr. Shikha Jain and Abhilash Kumar Jain, published by SD Publication House.",
+            "backAlt": "Back cover showing author profiles for Dr. Shikha Jain and Abhilash Kumar Jain, with the ISBN barcode.",
+            "price": null,
+            "currency": "INR",
+            "available": true,
+            "description": "",
+            "discountPercent": 10
+          },
+          {
+            "id": "book-06",
+            "title": "",
+            "subtitle": "",
+            "author": "",
+            "coAuthor": "",
+            "year": "",
+            "publisher": "",
+            "isbn": "",
+            "mrp": null,
+            "frontImage": "",
+            "backImage": "",
+            "frontAlt": "",
+            "backAlt": "",
+            "price": null,
+            "currency": "INR",
+            "available": false,
+            "description": "",
+            "discountPercent": null
+          },
+          {
+            "id": "book-07",
+            "title": "",
+            "subtitle": "",
+            "author": "",
+            "coAuthor": "",
+            "year": "",
+            "publisher": "",
+            "isbn": "",
+            "mrp": null,
+            "frontImage": "",
+            "backImage": "",
+            "frontAlt": "",
+            "backAlt": "",
+            "price": null,
+            "currency": "INR",
+            "available": false,
+            "description": "",
+            "discountPercent": null
+          },
+          {
+            "id": "book-08",
+            "title": "",
+            "subtitle": "",
+            "author": "",
+            "coAuthor": "",
+            "year": "",
+            "publisher": "",
+            "isbn": "",
+            "mrp": null,
+            "frontImage": "",
+            "backImage": "",
+            "frontAlt": "",
+            "backAlt": "",
+            "price": null,
+            "currency": "INR",
+            "available": false,
+            "description": "",
+            "discountPercent": null
+          },
+          {
+            "id": "book-09",
+            "title": "",
+            "subtitle": "",
+            "author": "",
+            "coAuthor": "",
+            "year": "",
+            "publisher": "",
+            "isbn": "",
+            "mrp": null,
+            "frontImage": "",
+            "backImage": "",
+            "frontAlt": "",
+            "backAlt": "",
+            "price": null,
+            "currency": "INR",
+            "available": false,
+            "description": "",
+            "discountPercent": null
+          },
+          {
+            "id": "book-10",
+            "title": "",
+            "subtitle": "",
+            "author": "",
+            "coAuthor": "",
+            "year": "",
+            "publisher": "",
+            "isbn": "",
+            "mrp": null,
+            "frontImage": "",
+            "backImage": "",
+            "frontAlt": "",
+            "backAlt": "",
+            "price": null,
+            "currency": "INR",
+            "available": false,
+            "description": "",
+            "discountPercent": null
+          }
+        ],
+        "discountLabelSuffix": "OFF"
+      },
+      "image": {
+        "src": "/book-feature-candidate.jpg",
+        "alt": "Five books published through SD Publication House standing upright on a desk: Organic Chemistry, Physical Chemistry, and three Hindi titles on child development, emotional intelligence in education and exam stress management."
+      }
+    },
+    "universityAdmission": {
+      "title": "University admission assistance",
+      "lede": "Guidance through programme selection, eligibility and the application process. We help you apply well. Admission decisions are made by universities alone.",
+      "cta": {
+        "label": "Talk to an admission advisor",
+        "href": "/contact"
+      },
+      "pathwayTitle": "The admission pathway",
+      "pathway": [
+        {
+          "stage": "Student goal",
+          "note": "Academic direction, career intent, constraints and timeline."
+        },
+        {
+          "stage": "University selection",
+          "note": "Shortlisting against your profile, budget, location and recognition requirements."
+        },
+        {
+          "stage": "Programme selection",
+          "note": "Curriculum, specialisation, research fit and progression routes."
+        },
+        {
+          "stage": "Application",
+          "note": "Forms, statements, references and portal submission."
+        },
+        {
+          "stage": "Documentation",
+          "note": "Transcripts, certificates, attestation and format requirements."
+        },
+        {
+          "stage": "Admission",
+          "note": "Offer review, deadlines and enrolment steps."
+        }
+      ],
+      "services": [
+        {
+          "title": "University and programme selection",
+          "body": "A shortlist built against your academic record, budget, location and long-term goal, with the recognition status of each institution checked."
+        },
+        {
+          "title": "Eligibility guidance",
+          "body": "Plain reading of each programme's eligibility rules, so you do not spend an application cycle on something you cannot qualify for."
+        },
+        {
+          "title": "Course selection",
+          "body": "Comparison of specialisations, credit structures, electives and research options across shortlisted programmes."
+        },
+        {
+          "title": "Application assistance",
+          "body": "Guidance on completing forms accurately, meeting deadlines and preparing supporting material in your own words."
+        },
+        {
+          "title": "Document preparation guidance",
+          "body": "What each university requires, in what format, with what attestation, and by when."
+        },
+        {
+          "title": "Admission process guidance",
+          "body": "A step-by-step map of the process for each institution, including entrance requirements and interview stages."
+        },
+        {
+          "title": "Academic counselling",
+          "body": "A frank conversation about fit, alternatives and realistic outcomes before you commit."
+        },
+        {
+          "title": "Application follow-up guidance",
+          "body": "How and when to follow up, how to read an offer, and what to do if you are waitlisted."
+        }
+      ],
+      "note": "Admission decisions are made by the respective universities and institutions and cannot be guaranteed. We do not guarantee admission, influence admission decisions, or claim affiliation with any university. Statements of purpose, essays and interviews must be your own work. We advise on structure and clarity; the content and the submission are yours."
+    },
+    "services": {
+      "title": "Services",
+      "lede": "Four practice areas, one continuous pathway. Most scholars start with a single problem and stay for the sequence."
+    },
+    "contact": {
+      "title": "Send us your requirement",
+      "lede": "Tell us where you are in the process and what you need. We will respond with an honest assessment of whether and how we can help.",
+      "formNote": "Files are used only to scope your requirement. Nothing you send is shared, reused or published."
+    }
+  },
+  "faqs": {
+    "Thesis consultancy": [
+      {
+        "q": "Will you write my thesis for me?",
+        "a": "We provide guidance, structural review, methodology support, analysis, editing and formatting throughout the research process. The research and final writing remain your responsibility, so that the work you submit accurately represents your own academic work."
+      },
+      {
+        "q": "At what stage should I approach you?",
+        "a": "Any stage. Earlier is generally cheaper and less painful, because problems with scope and methodology are far more expensive to fix after data has been collected. That said, a large share of our work is with scholars responding to committee revisions late in the process."
+      },
+      {
+        "q": "Can you help if my supervisor has already rejected a draft?",
+        "a": "Yes. Send us the draft and the feedback. We work backwards from the specific objections rather than starting over, and we will tell you if we think the feedback points to a deeper structural problem."
+      },
+      {
+        "q": "Do you work to my university's specific format?",
+        "a": "Yes. Send us the thesis handbook or template and we work to it, including margins, citation style, chapter numbering, table and figure conventions and front matter."
+      },
+      {
+        "q": "Is my work kept confidential?",
+        "a": "Yes, without exception. Drafts, data and identities are never reused, shown to other clients, or published as samples."
+      }
+    ],
+    "Research publication": [
+      {
+        "q": "Can you guarantee my paper will be published?",
+        "a": "Publication decisions are made by journal editors and peer reviewers. We support manuscript improvement, journal selection, author-guideline compliance and submission preparation, while the final publication decision remains with the journal."
+      },
+      {
+        "q": "How do you choose which journal to target?",
+        "a": "By reading your manuscript against what the journal has actually published recently, not against its stated scope alone. We check current indexing status, typical review timelines where published, article-processing charges and the fit of your contribution to the readership."
+      },
+      {
+        "q": "What happens if reviewers ask for major revisions?",
+        "a": "That is a normal and often good outcome. We help you build a point-by-point response that addresses each comment with evidence, identifies exactly where the manuscript changed, and disagrees respectfully where a comment is mistaken."
+      },
+      {
+        "q": "Do you charge for publication or pay journals?",
+        "a": "Never. We charge for our editorial and advisory work only. We do not pay journals, broker acceptance or use any channel that bypasses peer review. Any article-processing charge is paid by you, directly to the journal."
+      },
+      {
+        "q": "Can you add me as an author to an existing paper?",
+        "a": "No. Authorship sale is research misconduct and we do not participate in it in any form."
+      }
+    ],
+    "SCI & Scopus": [
+      {
+        "q": "What is the difference between SCI, SCIE and Scopus?",
+        "a": "SCI and its expanded form SCIE are citation indexes maintained by Clarivate within the Web of Science. Scopus is a separate abstract and citation database maintained by Elsevier. They have different coverage, different inclusion criteria and different metrics. A journal may be in one, both or neither."
+      },
+      {
+        "q": "How do I know a journal is genuinely indexed?",
+        "a": "Check the source lists published by Clarivate and Elsevier directly, not the journal's own website. Indexing can be discontinued, and delisted journals often continue advertising former status. We verify this as part of journal selection."
+      },
+      {
+        "q": "How long does review take at an indexed journal?",
+        "a": "It varies enormously, from a few weeks to well over a year. Where a journal publishes its median times we will tell you; where it does not, we can only give you a range based on the field."
+      },
+      {
+        "q": "Is a high-impact journal always the right target?",
+        "a": "No. Submitting to a journal well above the level of your contribution usually costs months for a desk rejection. We aim for the strongest journal your work can realistically support, which is a different question."
+      }
+    ],
+    "Peer-reviewed journals": [
+      {
+        "q": "How do I avoid predatory journals?",
+        "a": "Warning signs include unsolicited invitations, promises of publication within days, unclear or hidden fees, editorial boards that cannot be verified, and claimed indexing you cannot confirm at the source. We screen candidate journals for these as standard."
+      },
+      {
+        "q": "Are UGC-CARE listed journals sufficient?",
+        "a": "It depends on your institution's requirement. Check your university's specific criteria, since some require indexed publication specifically. We will read the requirement with you before targeting anything."
+      },
+      {
+        "q": "Can you help with conference papers?",
+        "a": "Yes, including selection of credible conferences, formatting to the proceedings template, and preparation of presentation material."
+      }
+    ],
+    "Book publication": [
+      {
+        "q": "Can I turn my thesis into a book?",
+        "a": "Often, but not by reprinting it. A thesis is written to demonstrate competence to examiners; a book is written to be read. That usually means cutting the methodological apparatus, rewriting the literature review as context, and rebuilding the argument for a reader who is not obliged to finish it. We advise on the restructuring."
+      },
+      {
+        "q": "Do you publish the book yourself?",
+        "a": "No. We provide editorial, design and production support, and we explain publisher options. You choose and contract directly with your publisher or platform, so the rights and the relationship stay with you."
+      },
+      {
+        "q": "How do ISBNs work?",
+        "a": "An ISBN identifies a specific edition and format of a title. Each format needs its own. Who registers it depends on your publishing route, and it affects who is recorded as publisher. We explain the implications before you commit."
+      },
+      {
+        "q": "What does an edited volume involve?",
+        "a": "Coordinating contributors, setting and enforcing a chapter template, reviewing submissions for quality and consistency, chasing deadlines, and building coherent front and back matter. We can support any or all of that."
+      }
+    ],
+    "University admission": [
+      {
+        "q": "Can you guarantee admission?",
+        "a": "Admission decisions are made by universities. We help you identify suitable programmes, understand eligibility requirements and prepare a complete, accurate and well-organised application. The final admission decision remains with the university."
+      },
+      {
+        "q": "Will you write my statement of purpose?",
+        "a": "No. We advise on structure, focus and clarity, and give feedback on your drafts. The content and the words must be yours. Universities increasingly screen for this, and a generic or purchased statement is easy to spot."
+      },
+      {
+        "q": "Are you affiliated with any universities?",
+        "a": "No. We hold no agency arrangements, commissions or partnerships with institutions, which is what allows our shortlisting advice to be genuinely independent."
+      },
+      {
+        "q": "When should I start?",
+        "a": "For most programmes, six to twelve months before the deadline. Documentation, attestation and entrance requirements take longer than applicants expect."
+      }
+    ]
+  },
+  "form": {
+    "academicLevels": [
+      "PhD scholar",
+      "M.Tech / M.E.",
+      "Master's student",
+      "Bachelor's student",
+      "Faculty member",
+      "Independent researcher",
+      "Author",
+      "Prospective applicant",
+      "Other"
+    ],
+    "services": [
+      "Thesis & Research",
+      "Research Paper Publication",
+      "Book Publication",
+      "University Admission",
+      "Other"
+    ]
+  },
+  "legal": {
+    "integrity": {
+      "title": "Academic integrity",
+      "body": "SetuVidya provides academic guidance, research support, editing, analysis and consultancy services. Students and researchers remain responsible for the originality, accuracy and final submission of their academic work.",
+      "points": [
+        "We do not write work to be submitted as a student's own unaided effort.",
+        "We do not guarantee publication, acceptance, admission or grades.",
+        "We do not sell, broker or arrange authorship on any manuscript.",
+        "We do not fabricate, alter or manufacture research data or citations.",
+        "We do not provide services intended to circumvent plagiarism detection.",
+        "We decline any request that would constitute academic misconduct at the client's institution."
+      ]
+    },
+    "documents": [
+      {
+        "slug": "privacy-policy",
+        "title": "Privacy Policy",
+        "updated": "[ADD LAST-UPDATED DATE]",
+        "sections": [
+          {
+            "heading": "What we collect",
+            "body": "Information you provide through our enquiry form: name, email address, phone number, academic level, service required, research discipline, your requirement description and any document you choose to upload. We also collect basic technical information such as browser type and pages visited."
+          },
+          {
+            "heading": "Why we collect it",
+            "body": "To assess your requirement, respond to your enquiry, deliver agreed services and maintain records of our engagement. We do not sell your information or share it for marketing."
+          },
+          {
+            "heading": "Documents and research material",
+            "body": "Material you send is used solely to scope and deliver your engagement. It is not reused for other clients, published as samples, or shared with third parties without your written instruction."
+          },
+          {
+            "heading": "Retention",
+            "body": "[ADD RETENTION PERIOD]. You may request deletion of your data at any time by writing to us."
+          },
+          {
+            "heading": "Your rights",
+            "body": "You may request access to, correction of, or deletion of the personal data we hold about you. Write to us using the contact details on this site."
+          },
+          {
+            "heading": "Contact",
+            "body": "For any privacy question, or to ask for access to, correction of or deletion of your data, contact us at {{email}}. Our postal address is {{address}}."
+          }
+        ]
+      },
+      {
+        "slug": "terms",
+        "title": "Terms & Conditions",
+        "updated": "[ADD LAST-UPDATED DATE]",
+        "sections": [
+          {
+            "heading": "Scope of services",
+            "body": "SetuVidya provides academic consultancy, research guidance, editorial and advisory services. The specific scope of any engagement is agreed in writing before work begins."
+          },
+          {
+            "heading": "Client responsibilities",
+            "body": "You are responsible for the originality, accuracy and final submission of your academic work, for complying with your institution's academic integrity policy, and for providing accurate information and materials."
+          },
+          {
+            "heading": "No guarantees",
+            "body": "We do not guarantee publication, journal acceptance, admission, grades, degree award or any other outcome determined by a third party."
+          },
+          {
+            "heading": "Fees and payment",
+            "body": "[ADD FEE, PAYMENT AND REFUND TERMS]."
+          },
+          {
+            "heading": "Revisions",
+            "body": "[ADD REVISION POLICY]."
+          },
+          {
+            "heading": "Intellectual property",
+            "body": "You retain ownership of your research, data and manuscripts. We retain ownership of our proprietary templates, checklists and methods."
+          },
+          {
+            "heading": "Limitation of liability",
+            "body": "[ADD LIABILITY TERMS, REVIEWED BY A QUALIFIED LAWYER]."
+          },
+          {
+            "heading": "Governing law",
+            "body": "[ADD GOVERNING LAW AND JURISDICTION]."
+          }
+        ]
+      },
+      {
+        "slug": "disclaimer",
+        "title": "Disclaimer",
+        "updated": "[ADD LAST-UPDATED DATE]",
+        "sections": [
+          {
+            "heading": "Academic integrity",
+            "body": "SetuVidya provides academic guidance, research support, editing, analysis and consultancy services. Students and researchers remain responsible for the originality, accuracy and final submission of their academic work. Clients must comply with the academic integrity policies of their institution."
+          },
+          {
+            "heading": "No guaranteed outcomes",
+            "body": "Nothing on this website should be read as a promise of publication, journal acceptance, university admission, grades or any other outcome decided by a third party. Editorial and admission decisions rest solely with journals and institutions."
+          },
+          {
+            "heading": "No institutional affiliation",
+            "body": "SetuVidya is an independent consultancy. We claim no affiliation, partnership, agency arrangement or endorsement from any university, publisher, journal or indexing body. Names of indexes such as SCI and Scopus are used descriptively only and belong to their respective owners."
+          },
+          {
+            "heading": "Professional advice",
+            "body": "Content on this website is general information about our services and is not legal, financial or immigration advice."
+          },
+          {
+            "heading": "External links",
+            "body": "We are not responsible for the content or practices of third-party websites linked from this site."
+          }
+        ]
+      }
+    ]
+  },
+  "seo": {
+    "defaultTitle": "SetuVidya Consultancy | Academic Research, Thesis & Publication Support",
+    "defaultDescription": "Academic research consultancy for PhD and M.Tech scholars. Thesis support, research methodology, SCI and Scopus publication guidance, book publication and university admission assistance.",
+    "keywords": [
+      "academic research consultancy",
+      "PhD thesis consultancy",
+      "M.Tech thesis support",
+      "research paper publication support",
+      "SCI Scopus publication guidance",
+      "book publication support",
+      "university admission assistance"
+    ]
+  },
+  "testimonials": {
+    "title": "Student reviews",
+    "intro": "Shared by scholars we have worked with and published with their permission. No outcomes are claimed here: journals and universities decide those.",
+    "items": [
+      {
+        "name": "Shivani Sharma",
+        "location": "Muzaffarnagar",
+        "review": "SetuVidya explained what each part of my thesis was actually for and made the research process much easier to understand.",
+        "rating": 5,
+        "approved": true
+      },
+      {
+        "name": "Himanshu Tomar",
+        "location": "Delhi",
+        "review": "SetuVidya helped me scope my research into something I could realistically finish and gave me a much clearer plan.",
+        "rating": 5,
+        "approved": true
+      },
+      {
+        "name": "Rohit Kareya",
+        "location": "Gwalior",
+        "review": "The guidance was professional and practical. I always knew what the next step was in my research process.",
+        "rating": 5,
+        "approved": true
+      },
+      {
+        "name": "Jitendra Dubey",
+        "location": "Agra",
+        "review": "The guidance helped me understand how to justify my research design and sampling properly instead of guessing.",
+        "rating": 5,
+        "approved": true
+      },
+      {
+        "name": "Om Pandey",
+        "location": "Rewa",
+        "review": "SetuVidya made the publication process clearer and explained that the final decision always rests with the journal reviewers.",
+        "rating": 5,
+        "approved": true
+      },
+      {
+        "name": "Shubham Pandey",
+        "location": "Varanasi",
+        "review": "The feedback I received was practical and helped me understand what needed attention at each stage.",
+        "rating": 5,
+        "approved": true
+      }
+    ]
+  },
+  "institutions": {
+    "kicker": "Institutions",
+    "title": "Universities & Institutions",
+    "subtitle": "Academic guidance and research support related to leading institutions.",
+    "homeSubtitle": "Academic guidance and research support related to leading institutions.",
+    "speedSeconds": 48,
+    "items": [
+      {
+        "slug": "amity-noida",
+        "name": "Amity University Noida",
+        "logo": "/institutions/amity-noida.webp",
+        "url": "https://noida.amity.edu/",
+        "alt": "Amity University Noida logo"
+      },
+      {
+        "slug": "jiit-noida",
+        "name": "Jaypee Institute of Information Technology (JIIT), Noida",
+        "logo": "/institutions/jiit-noida.webp",
+        "url": "https://www.jiit.ac.in/",
+        "alt": "Jaypee Institute of Information Technology (JIIT), Noida logo"
+      },
+      {
+        "slug": "js-university",
+        "name": "J.S. University, Shikohabad, Uttar Pradesh",
+        "logo": "/institutions/js-university.webp",
+        "url": "https://www.jsu.ac.in/",
+        "alt": "J.S. University, Shikohabad, Uttar Pradesh logo"
+      },
+      {
+        "slug": "shri-venkateshwara-university",
+        "name": "Shri Venkateshwara University, Gajraula, Uttar Pradesh",
+        "logo": "/institutions/shri-venkateshwara-university.png",
+        "url": "https://www.svu.edu.in/",
+        "alt": "Shri Venkateshwara University, Gajraula, Uttar Pradesh logo"
+      },
+      {
+        "slug": "vikrant-university",
+        "name": "Vikrant University, Gwalior",
+        "logo": "/institutions/vikrant-university.jpg",
+        "url": "https://vikrantuniversity.ac.in/",
+        "alt": "Vikrant University, Gwalior logo"
+      },
+      {
+        "slug": "itm-university",
+        "name": "ITM University, Gwalior",
+        "logo": "/institutions/itm-university.webp",
+        "url": "https://www.itmuniversity.ac.in/",
+        "alt": "ITM University, Gwalior logo"
+      },
+      {
+        "slug": "banasthali-vidyapith",
+        "name": "Banasthali Vidyapith, Rajasthan",
+        "logo": "/institutions/banasthali-vidyapith.jpg",
+        "url": "https://www.banasthali.org/",
+        "alt": "Banasthali Vidyapith, Rajasthan logo"
+      },
+      {
+        "slug": "mits-gwalior",
+        "name": "Madhav Institute of Technology & Science (MITS), Gwalior",
+        "logo": "/institutions/mits-gwalior.png",
+        "url": "https://web.mitsgwalior.in/",
+        "alt": "Madhav Institute of Technology & Science (MITS), Gwalior logo"
+      }
+    ]
+  },
+  "commerce": {
+    "currency": "INR",
+    "currencySymbol": "₹",
+    "locale": "en-IN",
+    "priceUnavailableLabel": "Price will be available soon.",
+    "totalUnavailableLabel": "To be confirmed",
+    "shipping": {
+      "enabled": true,
+      "charge": null,
+      "freeAbove": null,
+      "note": "Shipping is confirmed when we acknowledge your order request."
+    },
+    "payment": {
+      "provider": "razorpay",
+      "enabled": false,
+      "status": "ready-for-integration",
+      "note": "Online payment is not yet enabled. Submitting this form sends an order request; we confirm availability, shipping and the total before any payment is taken."
+    },
+    "orderStatuses": [
+      "pending",
+      "confirmed",
+      "processing",
+      "shipped",
+      "delivered",
+      "cancelled"
+    ],
+    "paymentStatuses": [
+      "pending",
+      "paid",
+      "failed",
+      "refunded"
+    ],
+    "labels": {
+      "buy": "Buy this book",
+      "view": "View book",
+      "addToCart": "Add to cart",
+      "buyNow": "Buy now",
+      "cart": "Cart",
+      "checkout": "Checkout",
+      "whatsapp": "Order via WhatsApp",
+      "emptyCart": "Your cart is empty.",
+      "emptyCartHint": "Add a title from the collection above to start an order request."
+    },
+    "confirmation": {
+      "title": "Order request received",
+      "body": "This is a request, not a completed payment. We will confirm availability, shipping and the final total by email or WhatsApp before anything is charged.",
+      "nextStepsLabel": "What happens next",
+      "nextSteps": [
+        "We check stock and confirm the total including shipping.",
+        "You receive the confirmed amount and payment instructions.",
+        "Your order is dispatched once payment is received."
+      ]
+    },
+    "states": {
+      "india": [
+        "Andhra Pradesh",
+        "Arunachal Pradesh",
+        "Assam",
+        "Bihar",
+        "Chhattisgarh",
+        "Goa",
+        "Gujarat",
+        "Haryana",
+        "Himachal Pradesh",
+        "Jharkhand",
+        "Karnataka",
+        "Kerala",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Manipur",
+        "Meghalaya",
+        "Mizoram",
+        "Nagaland",
+        "Odisha",
+        "Punjab",
+        "Rajasthan",
+        "Sikkim",
+        "Tamil Nadu",
+        "Telangana",
+        "Tripura",
+        "Uttar Pradesh",
+        "Uttarakhand",
+        "West Bengal",
+        "Andaman and Nicobar Islands",
+        "Chandigarh",
+        "Dadra and Nagar Haveli and Daman and Diu",
+        "Delhi",
+        "Jammu and Kashmir",
+        "Ladakh",
+        "Lakshadweep",
+        "Puducherry"
+      ]
+    }
+  },
+  "journalUrl": "https://ijmesjournal.com/",
+  "educationUpdates": {
+    "title": "Education & Academic Updates",
+    "kicker": "Stay updated. Stay ahead.",
+    "intro": "Latest education news, research developments, academic opportunities and useful insights.",
+    "searchPlaceholder": "Search education news, research, universities, scholarships, jobs, internships...",
+    "categories": [
+      "All",
+      "Academic Jobs",
+      "Internships",
+      "Scholarships",
+      "Admissions",
+      "Research",
+      "Higher Education",
+      "Exams",
+      "Education Policy",
+      "AI & EdTech"
+    ],
+    "viewAllLabel": "View All Academic Updates",
+    "emptyLabel": "No updates match that search yet.",
+    "demoNotice": "Sample entries are in place to show the layout. Real editorial content has not been published yet.",
+    "homeCount": 6,
+    "perPage": 9,
+    "articles": [
+      {
+        "slug": "how-to-read-a-call-for-papers",
+        "title": "How to read a call for papers before you submit",
+        "category": "Research",
+        "publishedAt": "2026-05-28",
+        "readingMinutes": 6,
+        "image": "",
+        "imageAlt": "",
+        "excerpt": "A call for papers tells you more than a deadline. Here is what to check before committing months of work.",
+        "body": "Scope comes first. Read the last two issues the journal actually published and ask whether your paper would sit comfortably beside them.\n\nThen the practical constraints: word limits, reference style, figure requirements, and whether the submission portal wants anonymised files.\n\nFinally, verify the journal's indexing at the source rather than on the journal's own website.",
+        "author": "SetuVidya editorial",
+        "sourceName": "",
+        "sourceUrl": "",
+        "seoTitle": "How to read a call for papers before you submit",
+        "metaDescription": "A call for papers tells you more than a deadline. Here is what to check before committing months of work.",
+        "isDemo": true
+      },
+      {
+        "slug": "what-a-research-gap-actually-is",
+        "title": "What a research gap actually is",
+        "category": "Research",
+        "publishedAt": "2026-05-21",
+        "readingMinutes": 5,
+        "image": "",
+        "imageAlt": "",
+        "excerpt": "“Limited research exists” is an assertion. A gap is something your literature review demonstrates.",
+        "body": "A gap is not an absence you assert in one sentence. It is a conclusion a reader reaches because of how you organised the evidence.\n\nOrganise the review by theme or by debate rather than by author. When the subheadings are concepts, the unanswered question tends to surface on its own.",
+        "author": "SetuVidya editorial",
+        "sourceName": "",
+        "sourceUrl": "",
+        "seoTitle": "What a research gap actually is",
+        "metaDescription": "“Limited research exists” is an assertion. A gap is something your literature review demonstrates.",
+        "isDemo": true
+      },
+      {
+        "slug": "choosing-a-postgraduate-programme",
+        "title": "Choosing a postgraduate programme you can actually finish",
+        "category": "Higher Education",
+        "publishedAt": "2026-05-14",
+        "readingMinutes": 7,
+        "image": "",
+        "imageAlt": "",
+        "excerpt": "Eligibility, supervision and funding decide more about your experience than the prospectus does.",
+        "body": "Check supervision capacity in your specific area, not the department's overall reputation.\n\nRead the regulations on registration period, extensions and submission before you apply.\n\nAsk what happens if your supervisor leaves partway through.",
+        "author": "SetuVidya editorial",
+        "sourceName": "",
+        "sourceUrl": "",
+        "seoTitle": "Choosing a postgraduate programme you can actually finish",
+        "metaDescription": "Eligibility, supervision and funding decide more about your experience than the prospectus does.",
+        "isDemo": true
+      },
+      {
+        "slug": "understanding-plagiarism-reports",
+        "title": "Understanding a similarity report",
+        "category": "Exams",
+        "publishedAt": "2026-05-07",
+        "readingMinutes": 5,
+        "image": "",
+        "imageAlt": "",
+        "excerpt": "A similarity percentage is not a plagiarism verdict. Reading the report properly matters more than the number.",
+        "body": "A high percentage can come entirely from correctly quoted material, reference lists and standard methodological phrasing.\n\nOpen the matched sources and look at what actually matched. A single uncited paragraph matters more than thirty percent spread across a bibliography.",
+        "author": "SetuVidya editorial",
+        "sourceName": "",
+        "sourceUrl": "",
+        "seoTitle": "Understanding a similarity report",
+        "metaDescription": "A similarity percentage is not a plagiarism verdict. Reading the report properly matters more than the number.",
+        "isDemo": true
+      },
+      {
+        "slug": "preparing-documents-for-admission",
+        "title": "Preparing documents for a postgraduate application",
+        "category": "Admissions",
+        "publishedAt": "2026-04-30",
+        "readingMinutes": 6,
+        "image": "",
+        "imageAlt": "",
+        "excerpt": "Most rejected applications are incomplete rather than unqualified. A checklist approach avoids that.",
+        "body": "Work backwards from the deadline and allow time for attestation, translation and transcripts, which routinely take longer than expected.\n\nKeep one master folder with every document in the format each institution asks for, rather than converting files under time pressure.",
+        "author": "SetuVidya editorial",
+        "sourceName": "",
+        "sourceUrl": "",
+        "seoTitle": "Preparing documents for a postgraduate application",
+        "metaDescription": "Most rejected applications are incomplete rather than unqualified. A checklist approach avoids that.",
+        "isDemo": true
+      },
+      {
+        "slug": "writing-a-statement-of-purpose",
+        "title": "Writing a statement of purpose that says something",
+        "category": "Admissions",
+        "publishedAt": "2026-04-23",
+        "readingMinutes": 6,
+        "image": "",
+        "imageAlt": "",
+        "excerpt": "Committees read hundreds. Specificity about your research interest is what separates one from the rest.",
+        "body": "Name the problem you want to work on and why it is unresolved. Name the people whose work you would build on.\n\nAvoid biography that does not connect to the research, and avoid claiming passion in place of describing work you have actually done.",
+        "author": "SetuVidya editorial",
+        "sourceName": "",
+        "sourceUrl": "",
+        "seoTitle": "Writing a statement of purpose that says something",
+        "metaDescription": "Committees read hundreds. Specificity about your research interest is what separates one from the rest.",
+        "isDemo": true
+      },
+      {
+        "slug": "what-peer-review-involves",
+        "title": "What peer review actually involves",
+        "category": "Research",
+        "publishedAt": "2026-04-16",
+        "readingMinutes": 5,
+        "image": "",
+        "imageAlt": "",
+        "excerpt": "Understanding the stages makes reviewer comments far less alarming when they arrive.",
+        "body": "Desk screening comes first, and most rejections happen here on scope rather than quality.\n\nReviewers are asked whether the method supports the claims. Major revisions are a normal, often positive outcome, not a failure.",
+        "author": "SetuVidya editorial",
+        "sourceName": "",
+        "sourceUrl": "",
+        "seoTitle": "What peer review actually involves",
+        "metaDescription": "Understanding the stages makes reviewer comments far less alarming when they arrive.",
+        "isDemo": true
+      }
+    ],
+    "emptyByCategory": {
+      "Academic Jobs": "No verified academic jobs are available at the moment.",
+      "Internships": "No verified internships are available at the moment.",
+      "Scholarships": "No verified scholarships are listed at the moment."
+    }
+  },
+  "scopusJournals": {
+    "kicker": "Journal search",
+    "title": "Scopus Journal List",
+    "intro": "Search verified journal records by subject area. Every entry is added only after its indexing status has been checked against the source database.",
+    "searchPlaceholder": "Search by journal name, publisher or subject area...",
+    "subjects": [],
+    "emptyState": "No verified journal records have been published yet. Entries will appear here once each has been checked against Scopus's own source list.",
+    "verifyNote": "Indexing status changes, and journals are added and removed. Always confirm a journal's current status on the database's own published list before submitting. SetuVidya does not guarantee acceptance or publication.",
+    "columns": [
+      "Journal",
+      "ISSN / eISSN",
+      "Publisher",
+      "Subject area",
+      "Scopus status",
+      "Source"
+    ],
+    "journals": []
+  },
+  "faqPage": {
+    "kicker": "Questions",
+    "title": "Frequently asked questions",
+    "intro": "Scope, process and the things we will not do, grouped by service."
+  },
+  "sciJournals": {
+    "kicker": "Journal search",
+    "title": "SCI / SCIE Journal List",
+    "intro": "Search verified journal records by subject area. Every entry is added only after its indexing status has been checked against the source database.",
+    "searchPlaceholder": "Search by journal name, publisher or subject area...",
+    "subjects": [],
+    "emptyState": "No verified journal records have been published yet. Entries will appear here once each has been checked against the database's own source list.",
+    "verifyNote": "Indexing status changes, and journals are added and removed. Always confirm a journal's current status on the database's own published list before submitting. SetuVidya does not guarantee acceptance or publication.",
+    "columns": [
+      "Journal",
+      "ISSN / eISSN",
+      "Publisher",
+      "Subject area",
+      "Indexing status",
+      "Source"
+    ],
+    "journals": []
+  },
+  "testimonialsPage": {
+    "kicker": "Testimonials",
+    "title": "Testimonials",
+    "intro": "What Scholars Say About Working With SetuVidya"
+  },
+  "indexing": {
+    "title": "Publication & Indexing",
+    "items": [
+      {
+        "name": "Scopus",
+        "file": "/indexing/scopus.png",
+        "width": 170,
+        "height": 74,
+        "note": "Verify indexing status directly with Scopus."
+      },
+      {
+        "name": "SCI / SCIE",
+        "file": "/indexing/sci-journal.png",
+        "width": 194,
+        "height": 66,
+        "note": "Verify coverage through the Web of Science Master Journal List."
+      },
+      {
+        "name": "ABDC",
+        "file": "/indexing/abdc.png",
+        "width": 378,
+        "height": 77,
+        "note": "Verify rankings through the official ABDC list."
+      },
+      {
+        "name": "Our Academic Journal — IJSMS",
+        "file": "/indexing/ijsms.png",
+        "width": 1453,
+        "height": 1082,
+        "external": true,
+        "note": "Our academic journal — visit its official website.",
+        "label": "Our Academic Journal — IJSMS",
+        "maxHeight": 48
+      }
+    ]
+  },
+  "abdcJournals": {
+    "kicker": "Journal search",
+    "title": "ABDC Journal List",
+    "intro": "Search verified journal records by subject area. Every entry is added only after its ranking has been checked against the current official ABDC list.",
+    "searchPlaceholder": "Search by journal name, publisher or subject area...",
+    "subjects": [],
+    "emptyState": "No verified journal records have been published yet. Entries will appear here once each has been checked against the current official ABDC list.",
+    "verifyNote": "Indexing status changes, and journals are added and removed. Always confirm a journal's current status on the database's own published list before submitting. SetuVidya does not guarantee acceptance or publication.",
+    "columns": [
+      "Journal",
+      "ISSN / eISSN",
+      "Publisher",
+      "Subject area",
+      "ABDC rating",
+      "Source"
+    ],
+    "journals": []
+  }
+}

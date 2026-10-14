@@ -1,0 +1,14 @@
+node_modules
+.next
+out
+.env
+.env.local
+.DS_Store
+*.tsbuildinfo
+next-env.d.ts
+
+# Local Cloudflare compatibility builds and runtime state
+.open-next/
+.wrangler/
+.dev.vars
+.dev.vars.*

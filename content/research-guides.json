@@ -1,0 +1,1362 @@
+{
+  "pathways": {
+    "thesis": {
+      "label": "Thesis",
+      "title": "How to make your thesis",
+      "intro": "Ten stages, from choosing a topic to final submission."
+    },
+    "paper": {
+      "label": "Research Paper",
+      "title": "How to make your research paper",
+      "intro": "Ten stages, from selecting a problem to responding to reviewers."
+    }
+  },
+  "guides": [
+    {
+      "type": "thesis",
+      "slug": "choose-research-topic",
+      "order": 1,
+      "title": "How to choose a research topic",
+      "shortTitle": "Choose a Research Topic",
+      "description": "Move from a broad interest to a focused, feasible research topic you can finish.",
+      "intro": "A topic is not a subject area. It is a specific, answerable question inside one.",
+      "whatIsIt": "A research topic names the narrow question your study will answer. “Employee motivation” is a subject area; “how hybrid work arrangements affect intrinsic motivation among IT professionals in one metropolitan region” is a topic.",
+      "whyItMatters": "Topic selection constrains every later decision: your literature, method, sample and timeline. A topic chosen carelessly cannot be rescued by good writing later.",
+      "howTo": [
+        {
+          "step": "Start from genuine interest",
+          "text": "You will live with this for months. Interest sustains the boring middle stretch."
+        },
+        {
+          "step": "Narrow the subject area",
+          "text": "Add a population, setting, time frame or variable until the question is answerable within your registration period."
+        },
+        {
+          "step": "Read recent issues of your target journals",
+          "text": "Live debate shows where the field is still arguing. Silence usually means the question is settled, or nobody considers it important."
+        },
+        {
+          "step": "Identify the gap explicitly",
+          "text": "Write one sentence: we do not yet know X, because prior work has only done Y. If you cannot write it, keep reading."
+        },
+        {
+          "step": "Test feasibility before committing",
+          "text": "Access, permission, sample size, cost, instruments, supervisor expertise. A brilliant question with unreachable data is not a topic."
+        },
+        {
+          "step": "Draft a working title",
+          "text": "Name the variables, the population and the context. Expect to revise it once the literature review is done."
+        }
+      ],
+      "diagram": {
+        "title": "From interest to focused topic",
+        "nodes": [
+          "Research interest",
+          "Broad subject area",
+          "Problem area",
+          "Existing literature",
+          "Research gap",
+          "Feasibility check",
+          "Focused research topic"
+        ]
+      },
+      "examples": {
+        "strong": "Example only: the effect of hybrid work arrangements on intrinsic motivation among IT professionals in one metropolitan region, over a defined two-year period.",
+        "weak": "Example only: a study on employee motivation."
+      },
+      "mistakes": [
+        "Committing to a topic before checking whether the data is reachable",
+        "Choosing a question so broad that no single study could answer it",
+        "Picking an area with no live debate in recent literature",
+        "Ignoring whether your supervisor can actually supervise it"
+      ],
+      "checklist": [
+        "My topic names a population, a context and a variable or phenomenon",
+        "I can state the gap in one sentence",
+        "I know where the data will come from and that I can obtain it",
+        "The scope fits my registration period",
+        "My supervisor has relevant expertise"
+      ],
+      "takeaway": "A good topic is the most finishable one, not the most interesting one.",
+      "seoTitle": "How to choose a research topic",
+      "metaDescription": "Move from a broad interest to a focused, feasible research topic you can finish."
+    },
+    {
+      "type": "thesis",
+      "slug": "define-research-problem",
+      "order": 2,
+      "title": "How to define a research problem",
+      "shortTitle": "Define the Research Problem",
+      "description": "Turn a topic into a stated problem supported by evidence from the literature.",
+      "intro": "A topic tells a reader what you are studying. A research problem tells them why it needs studying.",
+      "whatIsIt": "A research problem is a documented gap or tension: something the field does not know, or where published accounts disagree, stated with evidence rather than asserted.",
+      "whyItMatters": "Examiners and reviewers test whether the problem is real. “Limited research exists” is a claim; a problem built on what the literature actually shows is a finding.",
+      "howTo": [
+        {
+          "step": "State the background",
+          "text": "Establish the context a reader needs before the problem can make sense."
+        },
+        {
+          "step": "Present the evidence",
+          "text": "Cite what prior studies found, and show precisely where they stop."
+        },
+        {
+          "step": "Name the tension or gap",
+          "text": "Contradictory findings, an untested population, an unexamined context, or a method never applied in this setting."
+        },
+        {
+          "step": "Write the problem statement",
+          "text": "One paragraph: what is unknown, why it matters, and what your study addresses."
+        },
+        {
+          "step": "Bound the scope",
+          "text": "Say plainly what the study does not cover. Scope stated by you is rigour; scope found by an examiner is a weakness."
+        }
+      ],
+      "diagram": {
+        "title": "From topic to research problem",
+        "nodes": [
+          "Topic",
+          "Problem area",
+          "Evidence from literature",
+          "Contradiction or gap",
+          "Research problem",
+          "Scope and delimitations"
+        ]
+      },
+      "examples": {
+        "strong": "Example only: prior studies report higher autonomy under hybrid arrangements but conflicting effects on motivation, and none separates voluntary from mandated arrangements — which may explain the divergence.",
+        "weak": "Example only: there is limited research on hybrid work and motivation."
+      },
+      "mistakes": [
+        "Asserting a gap instead of demonstrating it",
+        "Describing a topic and calling it a problem",
+        "Writing a problem so large that no study could address it",
+        "Leaving scope undefined, so the study appears to over-claim"
+      ],
+      "checklist": [
+        "My problem is supported by cited evidence, not assertion",
+        "The gap is specific, not “more research is needed”",
+        "A reader can see why this matters",
+        "Scope and delimitations are stated",
+        "The problem is answerable with my available method and data"
+      ],
+      "takeaway": "A problem you can evidence is worth more than one that merely sounds important.",
+      "seoTitle": "How to define a research problem",
+      "metaDescription": "Turn a topic into a stated problem supported by evidence from the literature."
+    },
+    {
+      "type": "thesis",
+      "slug": "research-objectives",
+      "order": 3,
+      "title": "How to write research objectives and questions",
+      "shortTitle": "Objectives & Research Questions",
+      "description": "Write an aim, objectives and questions that align with each other and with your method.",
+      "intro": "The aim is the destination. Objectives are the stages. Research questions are what you will actually answer.",
+      "whatIsIt": "An aim states the overall purpose in one sentence. Objectives break it into achievable components, usually three to five. Research questions restate objectives in answerable form; hypotheses do so only where the design is testable.",
+      "whyItMatters": "Misalignment here surfaces everywhere later: an objective with no matching method, a question your data cannot answer, a finding that answers nothing you asked. Examiners check this chain first.",
+      "howTo": [
+        {
+          "step": "Write the aim",
+          "text": "One sentence, beginning “this study aims to…”"
+        },
+        {
+          "step": "Derive objectives",
+          "text": "Three to five, each starting with a verb you can actually perform: examine, compare, assess, determine."
+        },
+        {
+          "step": "Convert to questions",
+          "text": "Each objective becomes one answerable question. One-to-one, with no orphans on either side."
+        },
+        {
+          "step": "Add hypotheses only where appropriate",
+          "text": "Testable designs need them; exploratory and most qualitative work does not."
+        },
+        {
+          "step": "Check alignment",
+          "text": "Tabulate objective → question → data source → analysis. Every row must be complete before you collect anything."
+        }
+      ],
+      "diagram": {
+        "title": "The alignment chain",
+        "nodes": [
+          "Research problem",
+          "Aim",
+          "Objectives",
+          "Research questions",
+          "Methodology",
+          "Analysis",
+          "Findings"
+        ]
+      },
+      "examples": {
+        "strong": "Example only — objective: to compare intrinsic motivation between hybrid and on-site professionals. Question: does intrinsic motivation differ between the two groups?",
+        "weak": "Example only — objective: to study hybrid work. Question: what is hybrid work?"
+      },
+      "mistakes": [
+        "Objectives using unmeasurable verbs with no method attached",
+        "More questions than objectives, or questions no objective covers",
+        "Hypotheses added to a qualitative study because a template demanded them",
+        "Objectives written after the data was collected"
+      ],
+      "checklist": [
+        "I have one aim, in one sentence",
+        "Every objective starts with a performable verb",
+        "Each objective maps to exactly one research question",
+        "Every question maps to a data source and an analysis",
+        "Hypotheses appear only where the design tests them"
+      ],
+      "takeaway": "If you cannot tabulate objective → question → method → analysis, the chain is broken somewhere.",
+      "seoTitle": "How to write research objectives and questions",
+      "metaDescription": "Write an aim, objectives and questions that align with each other and with your method."
+    },
+    {
+      "type": "thesis",
+      "slug": "literature-review",
+      "order": 4,
+      "title": "How to conduct a literature review",
+      "shortTitle": "Review Previous Literature",
+      "description": "Build an argument from prior work rather than a catalogue of summaries.",
+      "intro": "A literature review is an argument about a field, not a list of what people said.",
+      "whatIsIt": "A review synthesises prior work: what is established, where accounts disagree, and what remains unanswered. It ends by making your research question feel inevitable.",
+      "whyItMatters": "“Descriptive rather than critical” is the most common examiner comment on a review. It usually means the chapter is organised by author instead of by idea.",
+      "howTo": [
+        {
+          "step": "Define a search strategy",
+          "text": "Databases, keywords, date range, inclusion and exclusion criteria. Record it — examiners ask."
+        },
+        {
+          "step": "Read for position, not just content",
+          "text": "Note what each study claims, on what evidence, and where it stops."
+        },
+        {
+          "step": "Organise by theme or debate",
+          "text": "When subheadings are concepts rather than names, the writing turns critical almost on its own."
+        },
+        {
+          "step": "Address contradictions",
+          "text": "Studies that disagree with your position are the most useful ones you have."
+        },
+        {
+          "step": "Close on the gap",
+          "text": "The gap should emerge from the evidence you just presented, not appear as an assertion."
+        },
+        {
+          "step": "Cite as you write",
+          "text": "Record every source at the moment you use it. Reconstructing citations later is where accidental plagiarism enters. Summarise in your own words and cite; never reuse sentence structure with words swapped."
+        }
+      ],
+      "diagram": {
+        "title": "Building the review",
+        "nodes": [
+          "Search strategy",
+          "Screening",
+          "Thematic grouping",
+          "Comparison and synthesis",
+          "Contradictions addressed",
+          "Research gap",
+          "Conceptual framework"
+        ]
+      },
+      "examples": {
+        "strong": "Example only: three studies report higher autonomy; two report reduced cohesion. None separates voluntary from mandated arrangements, which may explain the divergence.",
+        "weak": "Example only: Author A said this. Author B said that. Author C said both."
+      },
+      "mistakes": [
+        "Summarising study by study instead of comparing",
+        "No stated search strategy or inclusion criteria",
+        "Omitting studies that contradict your expected finding",
+        "Paraphrasing so closely that the wording remains the source's"
+      ],
+      "checklist": [
+        "I can state my search strategy in three sentences",
+        "My subheadings are themes, not author names",
+        "Contradictory findings are addressed, not hidden",
+        "Every claim carries a citation",
+        "The chapter ends by making my question feel necessary"
+      ],
+      "takeaway": "Organise by idea, not by author, and the review becomes critical on its own.",
+      "seoTitle": "How to conduct a literature review",
+      "metaDescription": "Build an argument from prior work rather than a catalogue of summaries."
+    },
+    {
+      "type": "thesis",
+      "slug": "research-methodology",
+      "order": 5,
+      "title": "How to write research methodology",
+      "shortTitle": "Develop the Methodology",
+      "description": "Justify a design your examiners can follow, repeat and defend.",
+      "intro": "Methodology explains how the study was done, in enough detail that someone else could repeat it.",
+      "whatIsIt": "The chapter states design, approach, population and sample, data sources, instruments, collection procedure, analysis and ethical clearance — each with a reason, not just a description.",
+      "whyItMatters": "This is the chapter examiners scrutinise most closely, because every later claim rests on it. A description without justification cannot be defended in a viva.",
+      "howTo": [
+        {
+          "step": "Choose a design that fits the question",
+          "text": "The question decides the method, never the reverse. There is no universally correct methodology; it depends on your question and your discipline."
+        },
+        {
+          "step": "State the approach",
+          "text": "Quantitative, qualitative or mixed — and why that serves this question."
+        },
+        {
+          "step": "Define population and sample",
+          "text": "Sampling technique, size, and the justification for that size."
+        },
+        {
+          "step": "Describe instruments",
+          "text": "Source or development, validity and reliability evidence, and pilot testing."
+        },
+        {
+          "step": "Set out collection and ethics",
+          "text": "Procedure, consent, approval, anonymisation and data handling."
+        },
+        {
+          "step": "Match analysis to each question",
+          "text": "Name the techniques, and check their assumptions before you rely on them."
+        },
+        {
+          "step": "State limitations yourself",
+          "text": "A limitation you name is rigour. The same one found by an examiner is a weakness."
+        }
+      ],
+      "diagram": {
+        "title": "Methodology chain",
+        "nodes": [
+          "Research problem",
+          "Research design",
+          "Population and sample",
+          "Instruments",
+          "Data collection",
+          "Analysis technique",
+          "Interpretation"
+        ]
+      },
+      "examples": {
+        "strong": "Example only: a cross-sectional design was chosen because the objective compares two existing groups at one point in time; stratified sampling ensured proportional representation of both arrangements.",
+        "weak": "Example only: a survey method was used. The sample was 200 respondents."
+      },
+      "mistakes": [
+        "Describing the method without justifying it",
+        "Writing methodology after collecting data, so the design cannot be defended",
+        "Reporting a sample size with no basis",
+        "Applying a statistical test without checking its assumptions"
+      ],
+      "checklist": [
+        "Every choice has a stated reason",
+        "Sample size is justified, not merely reported",
+        "Instrument validity and reliability are evidenced",
+        "Ethical approval and consent are documented",
+        "Analysis matches each hypothesis or question"
+      ],
+      "takeaway": "Methodology follows the question. If you chose the method first, expect to defend the wrong thing.",
+      "seoTitle": "How to write research methodology",
+      "metaDescription": "Justify a design your examiners can follow, repeat and defend."
+    },
+    {
+      "type": "thesis",
+      "slug": "data-analysis",
+      "order": 6,
+      "title": "How to collect and analyse research data",
+      "shortTitle": "Collect & Analyse Data",
+      "description": "Prepare, analyse and interpret data transparently, whatever your discipline.",
+      "intro": "Analysis turns collected data into evidence. It does not turn weak evidence into strong claims.",
+      "whatIsIt": "Data work covers collection, preparation, cleaning, coding, analysis and interpretation. Quantitative and qualitative traditions differ in technique but share the same obligation to transparency.",
+      "whyItMatters": "Most analysis problems are preparation problems: uncleaned data, undocumented exclusions, coding decisions made silently. Record every decision as you make it.",
+      "howTo": [
+        {
+          "step": "Prepare and clean",
+          "text": "Handle missing values, outliers and inconsistencies — and record what you did and why."
+        },
+        {
+          "step": "Distinguish primary and secondary data",
+          "text": "Primary data you collected; secondary data someone else did. Each carries different limitations, and both must be described."
+        },
+        {
+          "step": "Code systematically",
+          "text": "Quantitative: a documented codebook. Qualitative: an auditable coding frame someone else could follow."
+        },
+        {
+          "step": "Check assumptions first",
+          "text": "A test run on violated assumptions produces a number, not a finding."
+        },
+        {
+          "step": "Run the analysis you planned",
+          "text": "If you change technique, say so and say why. Never run tests repeatedly until one reaches significance."
+        },
+        {
+          "step": "Interpret within limits",
+          "text": "Report what the data shows. Correlation is not causation, and a non-significant result is a result, not a failure."
+        }
+      ],
+      "diagram": {
+        "title": "From raw data to evidence",
+        "nodes": [
+          "Data collection",
+          "Preparation and cleaning",
+          "Coding",
+          "Assumption checks",
+          "Analysis",
+          "Tables and figures",
+          "Interpretation"
+        ]
+      },
+      "examples": {
+        "strong": "Example only: of the responses received, a number were excluded for incomplete scales; the exclusions and the missing-data approach are reported in the analysis chapter.",
+        "weak": "Example only: data was analysed and the results were significant."
+      },
+      "mistakes": [
+        "Running tests repeatedly until one reaches significance",
+        "Excluding cases without reporting the exclusions",
+        "Presenting correlation as causation",
+        "Altering or selectively reporting data to fit an expected result"
+      ],
+      "checklist": [
+        "Cleaning and exclusions are documented",
+        "Assumptions were checked before testing",
+        "The analysis matches what the methodology promised",
+        "Tables and figures stand on their own",
+        "No claim exceeds what the data supports"
+      ],
+      "takeaway": "Document every decision as you make it. Reconstructed analysis is never fully defensible.",
+      "seoTitle": "How to collect and analyse research data",
+      "metaDescription": "Prepare, analyse and interpret data transparently, whatever your discipline."
+    },
+    {
+      "type": "thesis",
+      "slug": "results-discussion",
+      "order": 7,
+      "title": "How to write results and discussion",
+      "shortTitle": "Write Results & Discussion",
+      "description": "Separate what you found from what it means — the distinction examiners look for first.",
+      "intro": "Results report. Discussion interprets. Collapsing the two is the most common structural fault in a thesis.",
+      "whatIsIt": "The results chapter presents findings neutrally and in an organised way. The discussion explains them against your objectives, your framework and prior studies.",
+      "whyItMatters": "A discussion that restates the results table has done no work. One that explains why a finding agrees with some prior studies and contradicts others is doing exactly what the chapter is for.",
+      "howTo": [
+        {
+          "step": "Report results neutrally",
+          "text": "Organise by objective or question. No interpretation, no speculation."
+        },
+        {
+          "step": "Open the discussion with the answer",
+          "text": "Address each objective directly before elaborating."
+        },
+        {
+          "step": "Compare with prior work",
+          "text": "Agreement and disagreement both matter. Explain the disagreement rather than omitting it."
+        },
+        {
+          "step": "Connect to the framework",
+          "text": "Show how findings support, extend or complicate the theory you used."
+        },
+        {
+          "step": "Address unexpected findings",
+          "text": "An unexplained result is a weakness; an examined one is a contribution."
+        },
+        {
+          "step": "State implications honestly",
+          "text": "Theoretical and practical, bounded by what your design can actually support."
+        }
+      ],
+      "diagram": {
+        "title": "Results versus discussion",
+        "nodes": [
+          "Analysis output",
+          "Results: what was found",
+          "Comparison with literature",
+          "Theoretical framework",
+          "Discussion: what it means",
+          "Implications"
+        ]
+      },
+      "examples": {
+        "strong": "Example only: motivation was higher in one group. This aligns with autonomy-based accounts but contradicts studies reporting cohesion loss, possibly because participation here was voluntary.",
+        "weak": "Example only: the results show this approach is better, which proves the hypothesis."
+      },
+      "mistakes": [
+        "Repeating the results table in prose and calling it discussion",
+        "Interpreting inside the results chapter",
+        "Ignoring findings that contradict expectations",
+        "Claiming proof from a single study"
+      ],
+      "checklist": [
+        "Results contain no interpretation",
+        "Every objective is answered explicitly in the discussion",
+        "Agreements and disagreements with prior work are both addressed",
+        "Unexpected findings are examined",
+        "Implications stay within what the design supports"
+      ],
+      "takeaway": "If your discussion could be deleted without losing meaning, it was a second results chapter.",
+      "seoTitle": "How to write results and discussion",
+      "metaDescription": "Separate what you found from what it means — the distinction examiners look for first."
+    },
+    {
+      "type": "thesis",
+      "slug": "conclusion-recommendations",
+      "order": 8,
+      "title": "How to write a conclusion and recommendations",
+      "shortTitle": "Conclusion & Recommendations",
+      "description": "Close the study honestly: findings, contribution, limitations and what comes next.",
+      "intro": "The conclusion is where you say what the study established, and what it did not.",
+      "whatIsIt": "A conclusion summarises major findings, states the contribution, draws implications, acknowledges limitations and points to future research. It introduces nothing new.",
+      "whyItMatters": "Readers often read the introduction and the conclusion only. This chapter should be comprehensible on its own, without over-claiming.",
+      "howTo": [
+        {
+          "step": "Summarise the major findings",
+          "text": "Against the objectives, briefly. No new data, no new citations."
+        },
+        {
+          "step": "State the contribution",
+          "text": "What does the field now know that it did not before your study?"
+        },
+        {
+          "step": "Draw implications",
+          "text": "Theoretical, practical or policy — only those your evidence supports."
+        },
+        {
+          "step": "State limitations plainly",
+          "text": "Design, sample, context, instrument. Naming them strengthens the work."
+        },
+        {
+          "step": "Suggest future research",
+          "text": "Specific next steps that follow from your limitations, not a generic call for more research."
+        }
+      ],
+      "diagram": {
+        "title": "Closing the study",
+        "nodes": [
+          "Objectives revisited",
+          "Major findings",
+          "Contribution",
+          "Implications",
+          "Limitations",
+          "Future research"
+        ]
+      },
+      "examples": {
+        "strong": "Example only: findings are limited to voluntary arrangements in one sector; whether they hold under mandated policies remains open.",
+        "weak": "Example only: this study proves the approach increases motivation in all organisations."
+      },
+      "mistakes": [
+        "Introducing new findings or citations in the conclusion",
+        "Generalising far beyond the sample",
+        "Omitting limitations to appear stronger",
+        "Recommending further research with no specifics"
+      ],
+      "checklist": [
+        "No new material appears here",
+        "Each objective is addressed",
+        "The contribution is stated in one sentence",
+        "Limitations are specific to this design",
+        "Future research follows from those limitations"
+      ],
+      "takeaway": "Honest limitations make a conclusion stronger, not weaker.",
+      "seoTitle": "How to write a conclusion and recommendations",
+      "metaDescription": "Close the study honestly: findings, contribution, limitations and what comes next."
+    },
+    {
+      "type": "thesis",
+      "slug": "references",
+      "order": 9,
+      "title": "How to format references in APA 7th Edition",
+      "shortTitle": "References — APA 7th Edition",
+      "description": "Cite accurately and format consistently so every source can be traced.",
+      "intro": "References let a reader verify every claim you made. Formatting is the least of it; accuracy is the point.",
+      "whatIsIt": "APA 7th Edition governs in-text citation and the reference list: author–date in text, alphabetical entries with a hanging indent, and DOIs given as full links.",
+      "whyItMatters": "Examiners check that every in-text citation has a matching reference and the reverse. Inaccurate or missing citation is treated as a research-integrity matter, not a formatting slip.",
+      "howTo": [
+        {
+          "step": "Cite as you write",
+          "text": "Use a reference manager. Reconstructing citations at the end is where errors and accidental plagiarism enter."
+        },
+        {
+          "step": "Match in-text and list",
+          "text": "Every citation appears in the list; every entry is cited at least once."
+        },
+        {
+          "step": "Follow the patterns",
+          "text": "Journal article, book, chapter, website and DOI entries each have a fixed shape. Apply it consistently."
+        },
+        {
+          "step": "Use full DOI links",
+          "text": "Given as https://doi.org/ followed by the identifier. Never invent or guess one."
+        },
+        {
+          "step": "Verify every entry you did not read",
+          "text": "Never copy a reference from another paper's list without checking the original."
+        },
+        {
+          "step": "Confirm your institution's edition",
+          "text": "Some universities mandate a specific edition or a local variant. Check before formatting."
+        }
+      ],
+      "diagram": {
+        "title": "Citation workflow",
+        "nodes": [
+          "Source read",
+          "Recorded in reference manager",
+          "Cited in text",
+          "Entry in reference list",
+          "Cross-checked",
+          "Formatted to required edition"
+        ]
+      },
+      "examples": {
+        "strong": "Formatting template only: Author, A. A., & Author, B. B. (Year). Title of the article in sentence case. Journal Name, Volume(Issue), 00–00. https://doi.org/xx.xxxx/xxxxxx",
+        "weak": "Formatting template only: Author, A. (n.d.). Some article. Retrieved from a website."
+      },
+      "mistakes": [
+        "Citations in the text that never appear in the reference list",
+        "Inconsistent formatting across entries",
+        "Copying a reference from another paper without checking it",
+        "Inventing or guessing a DOI"
+      ],
+      "checklist": [
+        "Every in-text citation has a matching entry",
+        "Entries are alphabetical with a hanging indent",
+        "DOIs are full https://doi.org/ links",
+        "No entry was copied unverified from another source",
+        "The edition matches my institution's requirement"
+      ],
+      "takeaway": "The reference list is a verification tool. Accuracy matters more than neatness.",
+      "seoTitle": "How to format references in APA 7th Edition",
+      "metaDescription": "Cite accurately and format consistently so every source can be traced."
+    },
+    {
+      "type": "thesis",
+      "slug": "final-submission",
+      "order": 10,
+      "title": "How to format, proofread and submit a thesis",
+      "shortTitle": "Formatting & Final Submission",
+      "description": "Meet your university's requirements exactly and submit without avoidable delay.",
+      "intro": "Submission is a compliance task. Most delays are formatting failures, not academic ones.",
+      "whatIsIt": "Final submission covers formatting to the university template, proofreading, the similarity check, required front and back matter, approvals, and the submission itself.",
+      "whyItMatters": "Universities return submissions for margin widths, missing certificates and incorrect declarations. These are entirely avoidable with a checklist and some time.",
+      "howTo": [
+        {
+          "step": "Obtain the official template",
+          "text": "Margins, fonts, spacing, pagination and heading levels come from your university, not from convention."
+        },
+        {
+          "step": "Assemble front and back matter",
+          "text": "Title page, declaration, certificates, acknowledgements, contents, lists of tables and figures, appendices."
+        },
+        {
+          "step": "Proofread in passes",
+          "text": "One pass for structure, one for language, one for figures and tables, one for references. Not all at once."
+        },
+        {
+          "step": "Run the similarity check early",
+          "text": "Read the matched sources rather than the percentage. A single uncited paragraph matters more than a high total drawn from quotations and the reference list. Where text matches, cite it properly — never reword to reduce a score."
+        },
+        {
+          "step": "Collect approvals",
+          "text": "Supervisor sign-off and any departmental clearance, with time allowed for revisions."
+        },
+        {
+          "step": "Submit with margin",
+          "text": "Portals close on time and fail under load. Do not submit on the final evening."
+        }
+      ],
+      "diagram": {
+        "title": "Submission sequence",
+        "nodes": [
+          "University template",
+          "Front and back matter",
+          "Proofreading passes",
+          "Similarity check",
+          "Supervisor approval",
+          "Final submission"
+        ]
+      },
+      "examples": {
+        "strong": "Example only: a similarity report consisting entirely of correctly quoted material, standard method phrasing and the reference list.",
+        "weak": "Example only: replacing words with synonyms while keeping the source's sentence structure, in order to reduce a similarity score."
+      },
+      "mistakes": [
+        "Leaving formatting to the final week",
+        "Treating the similarity percentage as the only thing that matters",
+        "Rewording matched text instead of citing it properly",
+        "Submitting without departmental approval in hand"
+      ],
+      "checklist": [
+        "The document follows the official template exactly",
+        "All required certificates and declarations are included",
+        "Proofreading was done in separate passes",
+        "The similarity report was read source by source",
+        "Approvals are collected and the deadline is not tonight"
+      ],
+      "takeaway": "Read the matched sources, not the percentage — and cite rather than reword.",
+      "seoTitle": "How to format, proofread and submit a thesis",
+      "metaDescription": "Meet your university's requirements exactly and submit without avoidable delay."
+    },
+    {
+      "type": "paper",
+      "slug": "select-research-problem",
+      "order": 1,
+      "title": "How to select a research problem for a paper",
+      "shortTitle": "Select a Research Problem",
+      "description": "Choose a problem narrow enough for a single paper and supported by recent literature.",
+      "intro": "A paper answers one question well. A thesis can answer several; a paper cannot.",
+      "whatIsIt": "A paper-scale research problem is a single, specific question a reader of your target journal would recognise as open, and which your available evidence can address.",
+      "whyItMatters": "Most desk rejections are scope problems, not quality problems. A problem sized for a thesis, submitted as a paper, reads as unfocused however well it is written.",
+      "howTo": [
+        {
+          "step": "Start from what you already have",
+          "text": "Existing data, a completed chapter, or a finding that surprised you."
+        },
+        {
+          "step": "Check the recent conversation",
+          "text": "Read the last two years of your target journals. A problem nobody is discussing is hard to place."
+        },
+        {
+          "step": "Narrow to one question",
+          "text": "If you need the word “and” twice to state it, it is probably two papers."
+        },
+        {
+          "step": "Confirm the evidence is sufficient",
+          "text": "You need enough to support a claim, not merely enough to describe something."
+        },
+        {
+          "step": "Write the contribution in one sentence",
+          "text": "If you cannot, the problem is not yet defined."
+        }
+      ],
+      "diagram": {
+        "title": "Sizing a paper problem",
+        "nodes": [
+          "Available evidence",
+          "Recent literature",
+          "Open question",
+          "Single research problem",
+          "Stated contribution",
+          "Target journal scope"
+        ]
+      },
+      "examples": {
+        "strong": "Example only: whether a specific well-established measure behaves consistently in a population where it has not previously been validated.",
+        "weak": "Example only: an examination of everything currently known about a broad field."
+      },
+      "mistakes": [
+        "Submitting a thesis-sized problem as a single paper",
+        "Choosing a question with no recent discussion in the field",
+        "Defining the problem after the analysis, to fit the result",
+        "Being unable to state the contribution in one sentence"
+      ],
+      "checklist": [
+        "The problem is one question, not several",
+        "Recent literature shows it is still open",
+        "My evidence is sufficient to support a claim",
+        "I can state the contribution in one sentence",
+        "The problem fits a journal I have actually read"
+      ],
+      "takeaway": "One question, answered well, beats three questions answered partially.",
+      "seoTitle": "How to select a research problem for a paper",
+      "metaDescription": "Choose a problem narrow enough for a single paper and supported by recent literature."
+    },
+    {
+      "type": "paper",
+      "slug": "literature-review",
+      "order": 2,
+      "title": "How to write a literature review for a research paper",
+      "shortTitle": "Conduct Literature Review",
+      "description": "Write a compact review that positions your contribution rather than surveying a field.",
+      "intro": "A paper's review is an argument compressed into a few paragraphs, not a chapter.",
+      "whatIsIt": "In a paper, the review establishes what is known, identifies the specific opening your study addresses, and stops. Space is limited, so every citation must earn its place.",
+      "whyItMatters": "Reviewers read the review to decide whether you know the field and whether your claim is genuinely new. A survey that does not position your work signals neither.",
+      "howTo": [
+        {
+          "step": "Set the boundary first",
+          "text": "Review only what a reader needs to understand your contribution."
+        },
+        {
+          "step": "Group by argument",
+          "text": "Two or three themes, each ending with what remains unresolved."
+        },
+        {
+          "step": "Cite the recent and the foundational",
+          "text": "Reviewers notice when the last three years are missing."
+        },
+        {
+          "step": "Name the opening explicitly",
+          "text": "One or two sentences connecting the review directly to your objectives."
+        },
+        {
+          "step": "Attribute everything",
+          "text": "Summarise in your own words and cite. Never reuse a source's sentence structure with words substituted."
+        }
+      ],
+      "diagram": {
+        "title": "Positioning the contribution",
+        "nodes": [
+          "Foundational work",
+          "Recent studies",
+          "Themes and disagreements",
+          "Unresolved opening",
+          "Your contribution"
+        ]
+      },
+      "examples": {
+        "strong": "Example only: two themes are summarised in six sentences each, and the paragraph closes by naming the population where the measure has not been tested.",
+        "weak": "Example only: twenty studies summarised one after another, with no synthesis."
+      },
+      "mistakes": [
+        "Reviewing the whole field instead of what the paper needs",
+        "Omitting recent work reviewers will expect to see",
+        "Listing studies without grouping or comparison",
+        "Close paraphrasing that keeps the source's phrasing"
+      ],
+      "checklist": [
+        "The review only covers what my contribution needs",
+        "Sources are grouped by theme or disagreement",
+        "Recent and foundational work are both present",
+        "The opening my study addresses is named explicitly",
+        "Every summary is in my own words and cited"
+      ],
+      "takeaway": "Review what your argument needs. Everything else belongs in a different paper.",
+      "seoTitle": "How to write a literature review for a research paper",
+      "metaDescription": "Write a compact review that positions your contribution rather than surveying a field."
+    },
+    {
+      "type": "paper",
+      "slug": "research-objectives",
+      "order": 3,
+      "title": "How to write research objectives for a paper",
+      "shortTitle": "Develop Research Objectives",
+      "description": "State a focused aim and objectives a reviewer can match to your results.",
+      "intro": "In a paper, objectives are often a single paragraph — which makes precision more important, not less.",
+      "whatIsIt": "Paper objectives state what the study set out to establish, in terms that map directly onto the results you will report.",
+      "whyItMatters": "Reviewers check whether your results answer your stated objectives. Any mismatch reads as either over-claiming or a missing analysis.",
+      "howTo": [
+        {
+          "step": "State the aim in one sentence",
+          "text": "Placed at the end of the introduction."
+        },
+        {
+          "step": "List two or three objectives",
+          "text": "More than three is usually a sign the paper is carrying too much."
+        },
+        {
+          "step": "Use verbs your analysis performs",
+          "text": "Compare, estimate, test, characterise — each tied to something you actually did."
+        },
+        {
+          "step": "Preview the contribution",
+          "text": "Say what the paper adds, without overstating it."
+        },
+        {
+          "step": "Check against the results section",
+          "text": "Every objective must have a corresponding result, and every result an objective."
+        }
+      ],
+      "diagram": {
+        "title": "Objectives to results",
+        "nodes": [
+          "Research problem",
+          "Aim",
+          "Objectives",
+          "Analysis",
+          "Results",
+          "Claim"
+        ]
+      },
+      "examples": {
+        "strong": "Example only — objective: to test whether a measure retains its factor structure in a population where it has not previously been validated.",
+        "weak": "Example only — objective: to explore various aspects of the subject."
+      },
+      "mistakes": [
+        "More objectives than the paper can support",
+        "Objectives that no reported result addresses",
+        "Results reported that answer no stated objective",
+        "Verbs describing work the analysis never performed"
+      ],
+      "checklist": [
+        "The aim is one sentence",
+        "There are no more than three objectives",
+        "Each verb matches something I actually did",
+        "Every objective has a corresponding result",
+        "No result is orphaned from an objective"
+      ],
+      "takeaway": "Objectives and results must map one to one. Reviewers check.",
+      "seoTitle": "How to write research objectives for a paper",
+      "metaDescription": "State a focused aim and objectives a reviewer can match to your results."
+    },
+    {
+      "type": "paper",
+      "slug": "methodology",
+      "order": 4,
+      "title": "How to write the methodology section of a paper",
+      "shortTitle": "Choose Methodology",
+      "description": "Give enough detail for replication, in the space a journal allows.",
+      "intro": "A paper's method section is written for replication, compressed to journal length.",
+      "whatIsIt": "It states design, participants or materials, procedure, measures and analysis — enough that a competent reader in your field could repeat the study.",
+      "whyItMatters": "Insufficient methodological detail is among the most common reasons for major revisions. Reviewers cannot evaluate what you do not describe.",
+      "howTo": [
+        {
+          "step": "Follow the journal's structure",
+          "text": "Many specify subheadings. Use theirs, not a generic template."
+        },
+        {
+          "step": "Describe participants or materials precisely",
+          "text": "Selection, size, and relevant characteristics."
+        },
+        {
+          "step": "State the procedure in order",
+          "text": "What happened, in what sequence, with what instrument."
+        },
+        {
+          "step": "Report measures with their properties",
+          "text": "Source, scoring, and reliability evidence in your sample."
+        },
+        {
+          "step": "Name the analysis and its assumptions",
+          "text": "Including software where convention requires it."
+        },
+        {
+          "step": "Report ethics approval",
+          "text": "Committee, approval reference and consent procedure."
+        }
+      ],
+      "diagram": {
+        "title": "Replicable method reporting",
+        "nodes": [
+          "Design",
+          "Participants or materials",
+          "Procedure",
+          "Measures",
+          "Analysis plan",
+          "Ethics approval"
+        ]
+      },
+      "examples": {
+        "strong": "Example only: the sampling frame, response rate, instrument source and reliability in this sample are each reported in two sentences.",
+        "weak": "Example only: a standard questionnaire was distributed and analysed statistically."
+      },
+      "mistakes": [
+        "Omitting detail a reader would need to replicate the study",
+        "Using a generic template instead of the journal's structure",
+        "Reporting an instrument without reliability evidence",
+        "Leaving out ethics approval where it was required"
+      ],
+      "checklist": [
+        "A competent reader could repeat this study",
+        "The journal's own structure is followed",
+        "Measures carry reliability evidence from my sample",
+        "The analysis plan and its assumptions are stated",
+        "Ethics approval and consent are reported"
+      ],
+      "takeaway": "Write the method for someone who intends to repeat it.",
+      "seoTitle": "How to write the methodology section of a paper",
+      "metaDescription": "Give enough detail for replication, in the space a journal allows."
+    },
+    {
+      "type": "paper",
+      "slug": "data-analysis",
+      "order": 5,
+      "title": "How to analyse evidence for a research paper",
+      "shortTitle": "Collect & Analyse Evidence",
+      "description": "Analyse transparently and report what you actually did, including what did not work.",
+      "intro": "The analysis you report must be the analysis you performed.",
+      "whatIsIt": "This covers preparation, the analytic procedure, assumption checks, and honest reporting of everything the analysis produced.",
+      "whyItMatters": "Selective reporting — showing only the analyses that worked — is a research-integrity failure, not a presentational choice. Journals increasingly ask for analysis plans.",
+      "howTo": [
+        {
+          "step": "Prepare and document",
+          "text": "Cleaning, exclusions and transformations, each with a reason."
+        },
+        {
+          "step": "Check assumptions before testing",
+          "text": "Report the checks, not just the results."
+        },
+        {
+          "step": "Run the planned analysis",
+          "text": "Deviations are acceptable when disclosed; undisclosed ones are not."
+        },
+        {
+          "step": "Report everything relevant",
+          "text": "Including non-significant and unexpected results."
+        },
+        {
+          "step": "Present so others can verify",
+          "text": "Exact statistics, effect sizes and, where appropriate, the data or code."
+        }
+      ],
+      "diagram": {
+        "title": "Transparent analysis",
+        "nodes": [
+          "Prepared data",
+          "Assumption checks",
+          "Planned analysis",
+          "All results",
+          "Effect sizes",
+          "Verifiable reporting"
+        ]
+      },
+      "examples": {
+        "strong": "Example only: the pre-planned test was reported alongside a sensitivity check, and the non-significant secondary outcome was reported in full.",
+        "weak": "Example only: only the analyses that produced significant results were reported."
+      },
+      "mistakes": [
+        "Reporting only the analyses that worked",
+        "Trying tests until one reaches significance",
+        "Omitting assumption checks",
+        "Adjusting or excluding data to obtain an expected result"
+      ],
+      "checklist": [
+        "Preparation and exclusions are documented",
+        "Assumption checks are reported",
+        "Deviations from the plan are disclosed",
+        "Non-significant results are included",
+        "Statistics are reported precisely enough to verify"
+      ],
+      "takeaway": "Report the analysis you ran, including the parts that did not work.",
+      "seoTitle": "How to analyse evidence for a research paper",
+      "metaDescription": "Analyse transparently and report what you actually did, including what did not work."
+    },
+    {
+      "type": "paper",
+      "slug": "write-manuscript",
+      "order": 6,
+      "title": "How to write a research manuscript",
+      "shortTitle": "Write the Manuscript",
+      "description": "Structure a manuscript reviewers can follow and editors can process.",
+      "intro": "A manuscript is a structured argument, not an essay about your study.",
+      "whatIsIt": "Most empirical papers follow introduction, method, results and discussion, with an abstract that summarises all four and a conclusion that closes the argument.",
+      "whyItMatters": "Editors screen for structure and fit before quality. A manuscript that does not follow the expected shape is harder to review and easier to reject.",
+      "howTo": [
+        {
+          "step": "Draft the middle first",
+          "text": "Method and results are the most factual and the easiest to write."
+        },
+        {
+          "step": "Write the introduction to set up the contribution",
+          "text": "Broad context, narrowing to the specific opening, ending with your objectives."
+        },
+        {
+          "step": "Write the abstract last",
+          "text": "It must summarise what the paper actually says, not what you hoped it would."
+        },
+        {
+          "step": "Keep results and discussion separate",
+          "text": "Results report; discussion interprets."
+        },
+        {
+          "step": "Cut to the word limit honestly",
+          "text": "Remove material, do not compress sentences until they are unreadable."
+        },
+        {
+          "step": "Leave the draft and reread",
+          "text": "A day away reveals problems no amount of rereading on the day will."
+        }
+      ],
+      "diagram": {
+        "title": "Manuscript structure",
+        "nodes": [
+          "Title and abstract",
+          "Introduction",
+          "Method",
+          "Results",
+          "Discussion",
+          "Conclusion",
+          "References"
+        ]
+      },
+      "examples": {
+        "strong": "Example only: an abstract stating the problem, method, principal result and implication, in four sentences.",
+        "weak": "Example only: an abstract describing what the paper will discuss, without stating any finding."
+      },
+      "mistakes": [
+        "Writing the abstract before the paper is finished",
+        "Merging results and discussion",
+        "Exceeding the word limit and cutting content arbitrarily at the end",
+        "An introduction that never states the contribution"
+      ],
+      "checklist": [
+        "The structure matches the journal's expectations",
+        "The abstract reflects what the paper actually found",
+        "Results and discussion are separate",
+        "The word limit is met by removing material, not compressing prose",
+        "The introduction ends with clear objectives"
+      ],
+      "takeaway": "Write the middle first and the abstract last.",
+      "seoTitle": "How to write a research manuscript",
+      "metaDescription": "Structure a manuscript reviewers can follow and editors can process."
+    },
+    {
+      "type": "paper",
+      "slug": "tables-figures-references",
+      "order": 7,
+      "title": "How to prepare tables, figures and references",
+      "shortTitle": "Tables, Figures & References",
+      "description": "Present evidence so it can be read, checked and reused without the surrounding text.",
+      "intro": "A good table or figure is comprehensible on its own.",
+      "whatIsIt": "This covers table and figure design, captions, numbering, accessibility, and a complete reference list in the journal's required style.",
+      "whyItMatters": "Production teams return manuscripts for inconsistent numbering, missing permissions and unreadable figures. These delays are avoidable.",
+      "howTo": [
+        {
+          "step": "Choose the right form",
+          "text": "A table for precise values, a figure for pattern or relationship. Never both for the same data."
+        },
+        {
+          "step": "Make each self-contained",
+          "text": "The caption and labels should explain it without the body text."
+        },
+        {
+          "step": "Follow the journal's specification",
+          "text": "Resolution, file format, colour policy and numbering."
+        },
+        {
+          "step": "Do not rely on colour alone",
+          "text": "Use shape, pattern or direct labels as well, so the figure survives greyscale and colour-vision differences."
+        },
+        {
+          "step": "Clear permissions",
+          "text": "Any reproduced figure needs permission and attribution."
+        },
+        {
+          "step": "Check every reference",
+          "text": "Verify against the original. Never copy an entry from another paper's list."
+        }
+      ],
+      "diagram": {
+        "title": "Preparing evidence",
+        "nodes": [
+          "Select table or figure",
+          "Design for standalone reading",
+          "Journal specification",
+          "Accessible encoding",
+          "Permissions",
+          "Verified references"
+        ]
+      },
+      "examples": {
+        "strong": "Example only: a figure whose caption states the sample, the measure and the comparison, with series distinguished by both pattern and label.",
+        "weak": "Example only: a chart labelled “Results” with series distinguished only by colour."
+      },
+      "mistakes": [
+        "Presenting the same data as both a table and a figure",
+        "Captions that cannot be understood without the body text",
+        "Relying on colour alone to distinguish series",
+        "Reusing a published figure without permission"
+      ],
+      "checklist": [
+        "Each table or figure can be read on its own",
+        "The journal's specification is met",
+        "No meaning depends on colour alone",
+        "Permissions are cleared for reproduced material",
+        "Every reference was verified against the original"
+      ],
+      "takeaway": "If a reader must consult the text to understand your figure, redesign the figure.",
+      "seoTitle": "How to prepare tables, figures and references",
+      "metaDescription": "Present evidence so it can be read, checked and reused without the surrounding text."
+    },
+    {
+      "type": "paper",
+      "slug": "select-journal",
+      "order": 8,
+      "title": "How to select a journal for your research paper",
+      "shortTitle": "Select an Appropriate Journal",
+      "description": "Match your paper to a journal's scope, and verify every claim a journal makes about itself.",
+      "intro": "Journal selection is a scope-matching exercise, plus verification.",
+      "whatIsIt": "Selection means assessing aims and scope, article types, audience, review process, fees and — critically — independently verifying any indexing a journal advertises.",
+      "whyItMatters": "Scope mismatch causes most desk rejections. Separately, predatory publishing costs scholars money and can render work unusable for degree or promotion purposes.",
+      "howTo": [
+        {
+          "step": "Read what the journal actually published",
+          "text": "The last two years. Would your paper sit comfortably beside them?"
+        },
+        {
+          "step": "Check aims, scope and article type",
+          "text": "Many rejections are simply the wrong article type."
+        },
+        {
+          "step": "Verify indexing at the source",
+          "text": "Check the database's own published list. A journal's website is not evidence, and delisted journals often continue advertising former status. Never state that a journal is indexed anywhere unless you have verified it independently."
+        },
+        {
+          "step": "Confirm the editorial board is real",
+          "text": "Can you find those people, at those institutions?"
+        },
+        {
+          "step": "Know every fee before submitting",
+          "text": "Charges revealed only after acceptance are a warning sign."
+        },
+        {
+          "step": "Be suspicious of speed",
+          "text": "Publication promised within days means there was no peer review."
+        },
+        {
+          "step": "Treat unsolicited invitations with caution",
+          "text": "Reputable journals do not email strangers asking for manuscripts."
+        }
+      ],
+      "diagram": {
+        "title": "Journal selection checks",
+        "nodes": [
+          "Recent issues read",
+          "Scope and article type",
+          "Indexing verified at source",
+          "Editorial board confirmed",
+          "Fees known",
+          "Review timeline realistic"
+        ]
+      },
+      "examples": {
+        "strong": "Example only: a shortlist of three journals whose recent issues include comparable study designs, with fees and review timelines confirmed from each journal's own policy pages.",
+        "weak": "Example only: choosing a journal because an unsolicited email promised rapid publication and listed several database names."
+      },
+      "mistakes": [
+        "Trusting indexing claims made on the journal's own website",
+        "Submitting without reading recent issues",
+        "Ignoring fees until after acceptance",
+        "Responding to unsolicited invitations to submit"
+      ],
+      "checklist": [
+        "I have read recent issues of the journal",
+        "My article type is one the journal publishes",
+        "Any indexing claim was verified at the database's source list",
+        "The editorial board is verifiable",
+        "All fees are known in advance"
+      ],
+      "takeaway": "Verify at the source. No consultancy, agent or journal email can substitute for that — and no one can guarantee acceptance.",
+      "seoTitle": "How to select a journal for your research paper",
+      "metaDescription": "Match your paper to a journal's scope, and verify every claim a journal makes about itself."
+    },
+    {
+      "type": "paper",
+      "slug": "author-guidelines",
+      "order": 9,
+      "title": "How to follow journal author guidelines",
+      "shortTitle": "Follow Author Guidelines",
+      "description": "Meet every formatting and submission requirement before you submit.",
+      "intro": "Author guidelines are compliance requirements, not suggestions.",
+      "whatIsIt": "They specify structure, word limits, reference style, figure formats, anonymisation, declarations and the files a submission must contain.",
+      "whyItMatters": "Editorial offices return non-compliant submissions without review. Each return costs weeks for something that takes an afternoon to fix.",
+      "howTo": [
+        {
+          "step": "Read the guidelines before the final draft",
+          "text": "Reformatting afterwards wastes more time than writing to the specification."
+        },
+        {
+          "step": "Build a checklist from them",
+          "text": "Word limit, structure, reference style, figure format, file types."
+        },
+        {
+          "step": "Prepare anonymised files where required",
+          "text": "Double-blind review means removing identifying details from the manuscript and the file metadata."
+        },
+        {
+          "step": "Assemble required declarations",
+          "text": "Authorship, contributions, funding, conflicts of interest, data availability."
+        },
+        {
+          "step": "Confirm authorship with every author",
+          "text": "Everyone listed contributed; everyone who contributed is listed. Authorship is never traded, gifted or sold."
+        },
+        {
+          "step": "Write the cover letter",
+          "text": "Briefly: what the paper shows, why this journal, and confirmation it is not under review elsewhere."
+        }
+      ],
+      "diagram": {
+        "title": "Submission compliance",
+        "nodes": [
+          "Guidelines read",
+          "Checklist built",
+          "Manuscript formatted",
+          "Files anonymised",
+          "Declarations prepared",
+          "Cover letter written"
+        ]
+      },
+      "examples": {
+        "strong": "Example only: a submission pack containing an anonymised manuscript, a separate title page, figures at the specified resolution, and completed declarations.",
+        "weak": "Example only: submitting a manuscript formatted for a different journal."
+      },
+      "mistakes": [
+        "Formatting for one journal and submitting to another",
+        "Missing declarations, which delay the submission",
+        "Failing to anonymise for double-blind review",
+        "Adding an author who did not contribute"
+      ],
+      "checklist": [
+        "The manuscript follows this journal's guidelines exactly",
+        "Word limit and reference style are met",
+        "Files are anonymised where required",
+        "All declarations are complete",
+        "Every listed author has contributed and approved"
+      ],
+      "takeaway": "An afternoon spent on the guidelines saves weeks in the editorial office.",
+      "seoTitle": "How to follow journal author guidelines",
+      "metaDescription": "Meet every formatting and submission requirement before you submit."
+    },
+    {
+      "type": "paper",
+      "slug": "submission-reviewers",
+      "order": 10,
+      "title": "How to submit and respond to reviewer comments",
+      "shortTitle": "Submit & Respond to Reviewers",
+      "description": "Understand the review process and answer reviewers with evidence rather than defensiveness.",
+      "intro": "Major revisions are a normal, often positive outcome — not a failure.",
+      "whatIsIt": "Submission passes through editorial screening, peer review, a decision, revision and resubmission. Editors and reviewers decide; nobody else can.",
+      "whyItMatters": "Scholars often read a critical review as rejection. Understanding the stages, and responding point by point with evidence, materially improves the outcome — though it never guarantees it.",
+      "howTo": [
+        {
+          "step": "Expect editorial screening first",
+          "text": "Many rejections happen here, on scope, before review begins."
+        },
+        {
+          "step": "Allow realistic time",
+          "text": "Genuine peer review takes weeks at minimum, usually months."
+        },
+        {
+          "step": "Read the decision twice",
+          "text": "Once for the emotion, once for the substance. Respond to the second reading."
+        },
+        {
+          "step": "Build a point-by-point response",
+          "text": "Quote each comment, state what you changed, and give the page or line."
+        },
+        {
+          "step": "Disagree with evidence where warranted",
+          "text": "You may decline a change if you justify it courteously and substantively."
+        },
+        {
+          "step": "Resubmit within the window",
+          "text": "Late resubmission may be treated as a new submission."
+        }
+      ],
+      "diagram": {
+        "title": "The review process",
+        "nodes": [
+          "Submission",
+          "Editorial check",
+          "Peer review",
+          "Decision",
+          "Revision",
+          "Resubmission",
+          "Final decision"
+        ]
+      },
+      "examples": {
+        "strong": "Example only: a response table quoting each comment, describing the change made, and citing the revised page — including one courteous, evidenced disagreement.",
+        "weak": "Example only: a reply stating that the reviewer has misunderstood the paper, with no supporting explanation."
+      },
+      "mistakes": [
+        "Treating major revisions as a rejection",
+        "Responding to reviewers defensively rather than with evidence",
+        "Making changes without documenting them in the response",
+        "Submitting the same manuscript to several journals at once"
+      ],
+      "checklist": [
+        "I understand which stage my manuscript is at",
+        "Every comment has a documented response",
+        "Changes cite the revised page or line",
+        "Disagreements are justified, not dismissive",
+        "The paper is under review at one journal only"
+      ],
+      "takeaway": "Answer every comment with evidence. Acceptance is the editor's decision, and nobody can promise it.",
+      "seoTitle": "How to submit and respond to reviewer comments",
+      "metaDescription": "Understand the review process and answer reviewers with evidence rather than defensiveness."
+    }
+  ]
+}
